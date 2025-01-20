@@ -1,0 +1,4240 @@
+Diagnostic Trouble Codes:
+
+DTC	Item	Reference
+B1000	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+AIRBAG ECU MALFUNCTION
+
+B1003	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+AIRBAG ECU MALFUNCTION
+
+B1007	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+AIRBAG ECU MALFUNCTION
+
+B1010	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BODY CONTROL(DIAGNOSTICS)]
+BODY CONTROL SYSTEM (BIU) MALFUNCTION
+
+B1011	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BODY CONTROL(DIAGNOSTICS)]
+BATTERY CONTROL POWER SUPPLY
+
+↑
+B1012	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BODY CONTROL(DIAGNOSTICS)]
+BATTERY BACKUP POWER SUPPLY
+
+B1013	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BODY CONTROL(DIAGNOSTICS)]
+IGNITION POWER
+
+B1014	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BODY CONTROL(DIAGNOSTICS)]
+ACC POWER
+
+B1016	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BODY CONTROL(DIAGNOSTICS)]
+SHIFT LOCK CIRCUIT
+
+B1105	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+AIRBAG ECU MALFUNCTION
+
+↑
+B1106	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+AIRBAG ECU MALFUNCTION
+
+B1107	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BODY CONTROL(DIAGNOSTICS)]
+CONTROL MODULE COMMUNICATION STICKING
+
+B1115	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+AIRBAG ECU MALFUNCTION
+
+B1116	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+AIRBAG ECU MALFUNCTION
+
+B1117	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+AIRBAG ECU MALFUNCTION
+
+↑
+B1118	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+AIRBAG ECU MALFUNCTION
+
+B1120	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+AIRBAG ECU MALFUNCTION
+
+B1121	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+AIRBAG ECU MALFUNCTION
+
+B1125	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+AIRBAG ECU MALFUNCTION
+
+B1126	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+AIRBAG ECU MALFUNCTION
+
+↑
+B1145	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+AIRBAG ECU MALFUNCTION
+
+B1146	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+AIRBAG ECU MALFUNCTION
+
+B1149	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+AIRBAG ECU POWER SUPPLY VOLTAGE
+
+B1170	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+AIRBAG ECU MALFUNCTION
+
+B1185	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+AIRBAG ECU MALFUNCTION
+
+↑
+B1195	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+AIRBAG ECU MALFUNCTION
+
+B1196	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+AIRBAG ECU MALFUNCTION
+
+B1199	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+AIRBAG ECU MALFUNCTION
+
+B11E0	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+ROLLOVER DEPLOYMENT HISTORY
+
+B11F0	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+DISPOSAL PROCESS COMPLETE
+
+↑
+B11F2	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+FRONT IMPACT DEPLOYMENT
+
+B11F3	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+FRONT IMPACT DEPLOYMENT
+
+B11F4	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+FRONT IMPACT DEPLOYMENT
+
+B11F5	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+FRONT IMPACT DEPLOYMENT
+
+B11F7	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SIDE IMPACT DEPLOYMENT
+
+↑
+B11F8	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SIDE IMPACT DEPLOYMENT
+
+B11F9	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SIDE IMPACT DEPLOYMENT
+
+B11FA	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SIDE IMPACT DEPLOYMENT
+
+B11FB	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SIDE IMPACT DEPLOYMENT
+
+B11FC	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SIDE IMPACT DEPLOYMENT
+
+↑
+B1244	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BODY CONTROL(DIAGNOSTICS)]
+LIGHT SENSOR CIRCUIT
+
+B1247	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BODY CONTROL(DIAGNOSTICS)]
+LOST COMMUNICATION WITH TIRE PRESSURE MONITOR ECU
+
+B1430	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIR CONDITIONER(DIAGNOSTICS)]
+IN-VEHICLE (POST EVAPORATOR) TEMPERATURE SENSOR CIRCUIT OPEN
+
+B1431	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIR CONDITIONER(DIAGNOSTICS)]
+IN-VEHICLE (POST EVAPORATOR) TEMPERATURE SENSOR CIRCUIT SHORT-CIRCUIT
+
+B1432	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIR CONDITIONER(DIAGNOSTICS)]
+AMBIENT TEMPERATURE SENSOR CIRCUIT OPEN (AIR-CONDITIONER)
+
+↑
+B1433	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIR CONDITIONER(DIAGNOSTICS)]
+AMBIENT TEMPERATURE SENSOR CIRCUIT SHORT-CIRCUIT (AIR-CONDITIONER)
+
+B1434	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIR CONDITIONER(DIAGNOSTICS)]
+EVAPORATOR TEMPERATURE SENSOR CIRCUIT OPEN
+
+B1435	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIR CONDITIONER(DIAGNOSTICS)]
+EVAPORATOR TEMPERATURE SENSOR CIRCUIT SHORT-CIRCUIT
+
+B1436	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIR CONDITIONER(DIAGNOSTICS)]
+AIR MIX DOOR ACTUATOR CIRCUIT OPEN (PASSENGER)
+
+B1437	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIR CONDITIONER(DIAGNOSTICS)]
+AIR MIX DOOR ACTUATOR CIRCUIT SHORT-CIRCUIT (PASSENGER)
+
+↑
+B1438	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIR CONDITIONER(DIAGNOSTICS)]
+MODE DOOR ACTUATOR CIRCUIT OPEN
+
+B1439	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIR CONDITIONER(DIAGNOSTICS)]
+MODE DOOR ACTUATOR CIRCUIT SHORT-CIRCUIT
+
+B1440	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIR CONDITIONER(DIAGNOSTICS)]
+AIR MIX DOOR ACTUATOR CIRCUIT OPEN (DRIVER)
+
+B1441	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIR CONDITIONER(DIAGNOSTICS)]
+AIR MIX DOOR ACTUATOR CIRCUIT STUCK (PASSENGER)
+
+B1442	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIR CONDITIONER(DIAGNOSTICS)]
+AIR MIX DOOR ACTUATOR CIRCUIT SHORT-CIRCUIT (DRIVER)
+
+↑
+B1443	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIR CONDITIONER(DIAGNOSTICS)]
+MODE DOOR ACTUATOR CIRCUIT STUCK
+
+B1446	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIR CONDITIONER(DIAGNOSTICS)]
+AIR MIX DOOR ACTUATOR CIRCUIT STUCK (DRIVER)
+
+B14A1	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIR CONDITIONER(DIAGNOSTICS)]
+SUNLOAD SENSOR CIRCUIT LOW/OPEN
+
+B14A2	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIR CONDITIONER(DIAGNOSTICS)]
+SUNLOAD SENSOR CIRCUIT SHORT-CIRCUIT
+
+B1500	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [COMBINATION METER (DIAGNOSTICS)]
+FUEL SENDER OPEN DETECTED
+
+↑
+B1502	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [COMBINATION METER (DIAGNOSTICS)]
+WARNING BOX COMMUNICATION MALFUNCTION
+
+B1503	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [COMBINATION METER (DIAGNOSTICS)]
+METER CONTROL MODULE CAN REGISTER STUCK
+
+B1504	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [COMBINATION METER (DIAGNOSTICS)]
+STEERING SWITCH STUCK ON
+
+B1507	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [COMBINATION METER (DIAGNOSTICS)]
+OUTSIDE TEMPERATURE SENSOR OPEN DETECTED
+
+B1509	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [COMBINATION METER (DIAGNOSTICS)]
+COCKPIT CONTROL SIGNAL INPUT
+
+↑
+B1571	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [KEYLESS ACCESS WITH PUSH BUTTON START(DIAGNOSTICS)]
+REFERENCE CODE INCOMPATIBILITY (IMMOBILIZER CM TO ECM)
+
+B1572	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [KEYLESS ACCESS WITH PUSH BUTTON START(DIAGNOSTICS)]
+IMM CIRCUIT EXCEPT ANTENNA CIRCUIT
+
+B1576	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [KEYLESS ACCESS WITH PUSH BUTTON START(DIAGNOSTICS)]
+EGI CONTROL MODULE EEPROM
+
+B1577	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [KEYLESS ACCESS WITH PUSH BUTTON START(DIAGNOSTICS)]
+IMM CONTROL MODULE EEPROM
+
+B1610	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+FRONT SUB SENSOR RH FAILURE
+
+↑
+B1612	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+FRONT SUB SENSOR RH LOST COMMUNICATION
+
+B1613	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+FRONT SUB SENSOR RH INITIALIZATION ERROR
+
+B1615	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+FRONT SUB SENSOR LH FAILURE
+
+B1617	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+FRONT SUB SENSOR LH LOST COMMUNICATION
+
+B1618	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+FRONT SUB SENSOR LH INITIALIZATION ERROR
+
+↑
+B1620	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SIDE AIRBAG SENSOR RH FAILURE
+
+B1622	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SIDE AIRBAG SENSOR RH LOST COMMUNICATION
+
+B1623	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SIDE AIRBAG SENSOR RH INITIALIZATION ERROR
+
+B1625	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SIDE AIRBAG SENSOR LH FAILURE
+
+B1627	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SIDE AIRBAG SENSOR LH LOST COMMUNICATION
+
+↑
+B1628	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SIDE AIRBAG SENSOR LH INITIALIZATION ERROR
+
+B1630	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+CURTAIN AIRBAG SENSOR RH FAILURE
+
+B1632	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+CURTAIN AIRBAG SENSOR RH LOST COMMUNICATION
+
+B1633	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+CURTAIN AIRBAG SENSOR RH INITIALIZATION ERROR
+
+B1635	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+CURTAIN AIRBAG SENSOR LH FAILURE
+
+↑
+B1637	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+CURTAIN AIRBAG SENSOR LH LOST COMMUNICATION
+
+B1638	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+CURTAIN AIRBAG SENSOR LH INITIALIZATION ERROR
+
+B1655	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+FRONT BUCKLE SWITCH RH FAILURE
+
+B1661	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+PASSENGER'S AIRBAG ON/OFF INDICATOR FAILURE
+
+B1690	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+DOOR SENSOR RH FAILURE
+
+↑
+B1692	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+LOST COMMUNICATION WITH DOOR SENSOR RH
+
+B1693	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+DOOR SENSOR RH INITIALIZATION INCOMPLETE
+
+B1695	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+DOOR SENSOR LH FAILURE
+
+B1697	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+LOST COMMUNICATION WITH DOOR SENSOR LH
+
+B1698	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+DOOR SENSOR LH INITIALIZATION INCOMPLETE
+
+↑
+B16C5	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+VEHICLE SPEED (A/B)
+
+B16F2	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+FRONT SUB SENSOR RH RECOGNITION ERROR
+
+B16F3	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+FRONT SUB SENSOR LH RECOGNITION ERROR
+
+B16F4	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SIDE AIRBAG SENSOR RH RECOGNITION ERROR
+
+B16F5	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SIDE AIRBAG SENSOR LH RECOGNITION ERROR
+
+↑
+B16F6	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+CURTAIN AIRBAG SENSOR RH RECOGNITION ERROR
+
+B16F7	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+CURTAIN AIRBAG SENSOR LH RECOGNITION ERROR
+
+B16F9	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+DOOR SENSOR RH RECOGNITION ERROR
+
+B16FA	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+DOOR SENSOR LH RECOGNITION ERROR
+
+B1730	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [CENTRAL GATEWAY (DIAGNOSTICS)]
+CENTRAL GATEWAY CONTROL MODULE IGNITION / ACCESSORY POWER
+
+↑
+B1731	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [CENTRAL GATEWAY (DIAGNOSTICS)]
+CENTRAL GATEWAY CONTROL MODULE CAN REGISTER STUCK
+
+B1732	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [CENTRAL GATEWAY (DIAGNOSTICS)]
+CENTRAL GATEWAY CONTROL MODULE NON-VOLATILE MEMORY
+
+B1783	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+FRONT LEFT OCCUPANT DETECTION SENSOR COLLISION DETECTION
+
+B1784	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+FRONT RIGHT OCCUPANT DETECTION SENSOR COLLISION DETECTION
+
+B1785	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+REAR LEFT OCCUPANT DETECTION SENSOR COLLISION DETECTION
+
+↑
+B1786	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+REAR RIGHT OCCUPANT DETECTION SENSOR COLLISION DETECTION
+
+B1788	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+OCCUPANT DETECTION SENSOR POWER SUPPLY
+
+B178C	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+VEHICLE FACTORY CALIBRATION UNCOMPLETED
+
+B178D	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+FRONT LEFT OCCUPANT DETECTION SENSOR LOST COMMUNICATION
+
+B178E	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+FRONT RIGHT OCCUPANT DETECTION SENSOR LOST COMMUNICATION
+
+↑
+B178F	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+REAR LEFT OCCUPANT DETECTION SENSOR LOST COMMUNICATION
+
+B1790	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+REAR RIGHT OCCUPANT DETECTION SENSOR LOST COMMUNICATION
+
+B1791	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+FRONT LEFT OCCUPANT DETECTION SENSOR FAILURE
+
+B1792	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+FRONT RIGHT OCCUPANT DETECTION SENSOR FAILURE
+
+B1793	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+REAR LEFT OCCUPANT DETECTION SENSOR FAILURE
+
+↑
+B1794	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+REAR RIGHT OCCUPANT DETECTION SENSOR FAILURE
+
+B1796	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+OCCUPANT DETECTION SENSOR SERIAL ID MISMATCH
+
+B1797	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+OCCUPANT DETECTION SENSOR SUPPLIER ID AND FUNCTION ID MISMATCH
+
+B1800	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SHORT IN DRIVER’S AIRBAG
+
+B1801	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+OPEN IN DRIVER’S AIRBAG
+
+↑
+B1802	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SHORT IN DRIVER’S AIRBAG (TO GROUND)
+
+B1803	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SHORT IN DRIVER’S AIRBAG (TO +B)
+
+B1804	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SHORT IN DRIVER'S AIRBAG
+
+B1805	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SHORT IN PASSENGER’S AIRBAG
+
+B1806	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+OPEN IN PASSENGER’S AIRBAG
+
+↑
+B1807	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SHORT IN PASSENGER’S AIRBAG (TO GROUND)
+
+B1808	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SHORT IN PASSENGER’S AIRBAG (TO +B)
+
+B1809	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SHORT IN PASSENGER'S AIRBAG
+
+B1810	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SHORT IN DRIVER’S AIRBAG DUAL STAGE - 2ND STEP
+
+B1811	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+OPEN IN DRIVER’S AIRBAG DUAL STAGE - 2ND STEP
+
+↑
+B1812	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SHORT IN DRIVER’S AIRBAG DUAL STAGE - 2ND STEP (TO GROUND)
+
+B1813	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SHORT IN DRIVER’S AIRBAG DUAL STAGE - 2ND STEP CIRCUIT (TO +B)
+
+B1814	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SHORT IN DRIVER'S AIRBAG DUAL STAGE - 2ND STEP
+
+B1815	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SHORT IN PASSENGER’S AIRBAG DUAL STAGE - 2ND STEP
+
+B1816	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+OPEN IN PASSENGER’S AIRBAG DUAL STAGE - 2ND STEP
+
+↑
+B1817	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SHORT IN PASSENGER’S AIRBAG DUAL STAGE - 2ND STEP (TO GROUND)
+
+B1818	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SHORT IN PASSENGER’S AIRBAG DUAL STAGE - 2ND STEP CIRCUIT (TO +B)
+
+B1819	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SHORT IN PASSENGER'S AIRBAG DUAL STAGE - 2ND STEP
+
+B1820	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SHORT IN SIDE AIRBAG RH
+
+B1821	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+OPEN IN SIDE AIRBAG RH
+
+↑
+B1822	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SHORT IN SIDE AIRBAG RH (TO GROUND)
+
+B1823	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SHORT IN SIDE AIRBAG RH (TO +B)
+
+B1824	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SHORT IN SIDE AIRBAG RH
+
+B1825	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SHORT IN SIDE AIRBAG LH
+
+B1826	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+OPEN IN SIDE AIRBAG LH
+
+↑
+B1827	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SHORT IN SIDE AIRBAG LH (TO GROUND)
+
+B1828	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SHORT IN SIDE AIRBAG LH (TO +B)
+
+B1829	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SHORT IN SIDE AIRBAG LH
+
+B1830	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SHORT IN CURTAIN AIRBAG RH SQUIB CIRCUIT
+
+B1831	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+OPEN IN CURTAIN AIRBAG RH SQUIB CIRCUIT
+
+↑
+B1832	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SHORT IN CURTAIN AIRBAG RH SQUIB CIRCUIT (TO GROUND)
+
+B1833	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SHORT IN CURTAIN SHIELD AIRBAG RH SQUIB CIRCUIT (TO +B)
+
+B1834	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SHORT IN CURTAIN AIRBAG RH SQUIB CIRCUIT
+
+B1835	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SHORT IN CURTAIN AIRBAG LH SQUIB CIRCUIT
+
+B1836	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+OPEN IN CURTAIN AIRBAG LH SQUIB CIRCUIT
+
+↑
+B1837	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SHORT IN CURTAIN AIRBAG LH SQUIB CIRCUIT (TO GROUND)
+
+B1838	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SHORT IN CURTAIN SHIELD AIRBAG LH SQUIB CIRCUIT (TO +B)
+
+B1839	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SHORT IN CURTAIN AIRBAG LH SQUIB CIRCUIT
+
+B1860	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SHORT IN DRIVER’S KNEE AIRBAG
+
+B1861	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+OPEN IN DRIVER’S KNEE AIRBAG
+
+↑
+B1862	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SHORT IN DRIVER’S KNEE AIRBAG (TO GROUND)
+
+B1863	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SHORT IN DRIVER’S KNEE AIRBAG (TO +B)
+
+B1864	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SHORT IN DRIVER'S KNEE AIRBAG
+
+B1900	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SHORT IN FRONT P/T RH
+
+B1901	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+OPEN IN FRONT P/T RH
+
+↑
+B1902	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SHORT IN FRONT P/T RH (TO GROUND)
+
+B1903	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SHORT IN FRONT P/T RH (TO +B)
+
+B1904	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SHORT IN FRONT P/T RH
+
+B1905	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SHORT IN FRONT P/T LH
+
+B1906	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+OPEN IN FRONT P/T LH
+
+↑
+B1907	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SHORT IN FRONT P/T LH (TO GROUND)
+
+B1908	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SHORT IN FRONT P/T LH (TO +B)
+
+B1909	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SHORT IN FRONT P/T LH
+
+B1910	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SHORT IN FRONT P/T RH(ADAPTIVE)
+
+B1911	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+OPEN IN FRONT P/T RH (ADAPTIVE)
+
+↑
+B1912	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SHORT IN FRONT P/T RH(ADAPTIVE/TO GROUND)
+
+B1913	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SHORT IN FRONT P/T RH(ADAPTIVE/TO +B)
+
+B1918	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+SHORT IN FRONT P/T RH (ADAPTIVE)
+
+B1E00	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [CENTRAL GATEWAY (DIAGNOSTICS)]
+REGISTRATION FAULT OF AUTHENTICATION UNIT
+
+B1E00	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight SECURITY GATEWAY (DIAGNOSTICS)]
+REGISTRATION FAULT OF AUTHENTICATION UNIT
+
+↑
+B1E01	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [CENTRAL GATEWAY (DIAGNOSTICS)]
+UNREGISTERED OF AUTHENTICATION UNIT
+
+B2102	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight SECURITY GATEWAY (DIAGNOSTICS)]
+EYESIGHT SECURITY GATEWAY CONTROL MODULE NONVOLATILE MEMORY
+
+B2103	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight SECURITY GATEWAY (DIAGNOSTICS)]
+BATTERY HIGH VOLTAGE
+
+B2104	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight SECURITY GATEWAY (DIAGNOSTICS)]
+REGISTER STUCK CHECK
+
+B2105	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight SECURITY GATEWAY (DIAGNOSTICS)]
++B POWER SUPPLY
+
+↑
+B2240	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [COCKPIT CONTROL (DIAGNOSTICS)]
+CAN COMMUNICATION (AUDIO) STUCK
+
+B2241	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [COCKPIT CONTROL (DIAGNOSTICS)]
+CAN COMMUNICATION
+
+B2249	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [COCKPIT CONTROL (DIAGNOSTICS)]
+BLUETOOTH MODULE
+
+B224A	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [COCKPIT CONTROL (DIAGNOSTICS)]
+BACKUP CAMERA
+
+B224D	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [COCKPIT CONTROL (DIAGNOSTICS)]
+XM / SATELLITE DIGITAL AUDIO RADIO SERVICE ANTENNA FAULTS(SHORTED OR OPEN)
+
+↑
+B2256	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [COCKPIT CONTROL (DIAGNOSTICS)]
+DATA COMMUNICATION MODULE COMMUNICATION OPEN
+
+B2257	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [COCKPIT CONTROL (DIAGNOSTICS)]
+METER COMMUNICATION OPEN
+
+B2258	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [COCKPIT CONTROL (DIAGNOSTICS)]
+METER SIGNAL INPUT
+
+B2259	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [COCKPIT CONTROL (DIAGNOSTICS)]
+CENTER INFORMATION DISPLAY COMMUNICATION OPEN
+
+B225A	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [COCKPIT CONTROL (DIAGNOSTICS)]
+CENTER INFORMATION DISPLAY
+
+↑
+B2271	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [KEYLESS ACCESS WITH PUSH BUTTON START(DIAGNOSTICS)]
+IGN RELAY CONTROL CIRCUIT
+
+B2274	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [KEYLESS ACCESS WITH PUSH BUTTON START(DIAGNOSTICS)]
+ACC RELAY CONTROL CIRCUIT
+
+B2275	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [KEYLESS ACCESS WITH PUSH BUTTON START(DIAGNOSTICS)]
+ENGINE START REQUEST CONTROL CIRCUIT
+
+B2276	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [KEYLESS ACCESS WITH PUSH BUTTON START(DIAGNOSTICS)]
+ACC RELAY OFF SIGNAL
+
+B2277	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [KEYLESS ACCESS WITH PUSH BUTTON START(DIAGNOSTICS)]
+SUBMERGING CIRCUIT
+
+↑
+B227B	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [KEYLESS ACCESS WITH PUSH BUTTON START(DIAGNOSTICS)]
+PUSH ENGINE START SWITCH INPUT PERFORMANCE
+
+B227C	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [KEYLESS ACCESS WITH PUSH BUTTON START(DIAGNOSTICS)]
+P RANGE SIGNAL PERFORMANCE
+
+B227D	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [KEYLESS ACCESS WITH PUSH BUTTON START(DIAGNOSTICS)]
+KEYLESS ACCESS WITH PUSH BUTTON START
+
+B2282	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [KEYLESS ACCESS WITH PUSH BUTTON START(DIAGNOSTICS)]
+VEHICLE SPEED SIGNAL CORRELATION
+
+B2283	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [KEYLESS ACCESS WITH PUSH BUTTON START(DIAGNOSTICS)]
+VEHICLE SPEED SENSOR
+
+↑
+B2284	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [KEYLESS ACCESS WITH PUSH BUTTON START(DIAGNOSTICS)]
+BRAKE SIGNAL CORRELATION
+
+B2285	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [KEYLESS ACCESS WITH PUSH BUTTON START(DIAGNOSTICS)]
+STEERING LOCK POSITION SIGNAL CORRELATION
+
+B2286	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [KEYLESS ACCESS WITH PUSH BUTTON START(DIAGNOSTICS)]
+ENGINE SPEED SIGNAL(WITHOUT AUTO START STOP)
+
+B2290	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ACTIVE SOUND CONTROL (DIAGNOSTICS)]
+SPEAKER CIRCUIT/OPEN
+
+B2291	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ACTIVE SOUND CONTROL (DIAGNOSTICS)]
+ASC ECU INTERNAL FAILURE
+
+↑
+B2300	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [Blind Spot Detection/Rear Cross Traffic Alert (DIAGNOSTICS)]
+REAR RADAR CIRCUIT LOW
+
+B2301	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [Blind Spot Detection/Rear Cross Traffic Alert (DIAGNOSTICS)]
+REAR RADAR CIRCUIT HIGH
+
+B2311	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [Blind Spot Detection/Rear Cross Traffic Alert (DIAGNOSTICS)]
+REAR RADAR DETECT TCM
+
+B2313	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [Blind Spot Detection/Rear Cross Traffic Alert (DIAGNOSTICS)]
+REAR RADAR DETECT VDC
+
+B2327	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [Blind Spot Detection/Rear Cross Traffic Alert (DIAGNOSTICS)]
+REAR RADAR INTERNAL FAILURE (INTERNAL ELECTRIC CIRCUIT)
+
+↑
+B2329	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [Blind Spot Detection/Rear Cross Traffic Alert (DIAGNOSTICS)]
+REAR RADAR AXIS ALIGNMENT INCOMPLETE
+
+B2344	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [Blind Spot Detection/Rear Cross Traffic Alert (DIAGNOSTICS)]
+RADAR ASSY B&S VEHICLE CODE ABNORMAL
+
+B2350	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [Blind Spot Detection/Rear Cross Traffic Alert (DIAGNOSTICS)]
+REAR RADAR COMMUNICATION ERROR BETWEEN MASTER AND SLAVE
+
+B2351	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [Blind Spot Detection/Rear Cross Traffic Alert (DIAGNOSTICS)]
+REAR RADAR LOST COMMUNICATION BETWEEN MASTER AND SLAVE
+
+B2781	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [KEYLESS ACCESS WITH PUSH BUTTON START(DIAGNOSTICS)]
+STEERING LOCK CM CONTROL CIRCUIT
+
+↑
+B2782	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [KEYLESS ACCESS WITH PUSH BUTTON START(DIAGNOSTICS)]
+STEERING LOCK DRIVE REQUEST SIGNAL CORRELATION
+
+B2784	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [KEYLESS ACCESS WITH PUSH BUTTON START(DIAGNOSTICS)]
+ANTENNA CIRCUIT (PUSH ENGINE SWITCH)
+
+B2785	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [KEYLESS ACCESS WITH PUSH BUTTON START(DIAGNOSTICS)]
+LIN COMMUNICATION
+
+B2786	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [KEYLESS ACCESS WITH PUSH BUTTON START(DIAGNOSTICS)]
+STEERING LOCK CM COMMUNICATION
+
+B2788	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [KEYLESS ACCESS WITH PUSH BUTTON START(DIAGNOSTICS)]
+IGN SIGNAL CORRELATION (STEERING LOCK CM)
+
+↑
+B2789	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [KEYLESS ACCESS WITH PUSH BUTTON START(DIAGNOSTICS)]
+ID CODE BOX COMMUNICATION
+
+B278A	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [KEYLESS ACCESS WITH PUSH BUTTON START(DIAGNOSTICS)]
+PUSH ENGINE SWITCH POWER SUPPLY CIRCUIT
+
+B278B	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [KEYLESS ACCESS WITH PUSH BUTTON START(DIAGNOSTICS)]
+CAN CONTROL MODULE STUCK
+
+B278D	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [KEYLESS ACCESS WITH PUSH BUTTON START(DIAGNOSTICS)]
+ID CODE BOX JUDGMENT CIRCUIT
+
+B2790	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [KEYLESS ACCESS WITH PUSH BUTTON START(DIAGNOSTICS)]
+ID CODE BOX CIRCUIT
+
+↑
+B2793	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [KEYLESS ACCESS WITH PUSH BUTTON START(DIAGNOSTICS)]
+BACKUP POWER
+
+B27A1	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [KEYLESS ACCESS WITH PUSH BUTTON START(DIAGNOSTICS)]
+DRIVER SIDE EXTERNAL ANTENNA OPEN
+
+B27A2	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [KEYLESS ACCESS WITH PUSH BUTTON START(DIAGNOSTICS)]
+PASSENGER SIDE EXTERNAL ANTENNA OPEN
+
+B27A5	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [KEYLESS ACCESS WITH PUSH BUTTON START(DIAGNOSTICS)]
+FRONT INTERNAL ANTENNA OPEN
+
+B27A6	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [KEYLESS ACCESS WITH PUSH BUTTON START(DIAGNOSTICS)]
+REAR INTERNAL ANTENNA OPEN
+
+↑
+B27A7	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [KEYLESS ACCESS WITH PUSH BUTTON START(DIAGNOSTICS)]
+TRUNK/REAR GATE INTERNAL ANTENNA OPEN
+
+B27A8	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [KEYLESS ACCESS WITH PUSH BUTTON START(DIAGNOSTICS)]
+TRUNK/REAR GATE EXTERNAL ANTENNA OPEN
+
+B2801	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+TCM ABNORMAL
+
+B2802	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+ETC ABNORMAL
+
+B2806	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+ECM ABNORMAL
+
+↑
+B2807	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+ECM ABNORMAL
+
+B2809	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+VDC ABNORMAL
+
+B280A	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+VDC ECHO BACK DISAGREEMENT
+
+B280B	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+VDC BRAKE FLUID PRESSURE
+
+B280F	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+COMBINATION METER MALFUNCTION
+
+↑
+B2810	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+INCOMPATIBLE WITH EyeSight (COMBINATION METER)
+
+B2814	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+POWER SUPPLY LOW VOLTAGE
+
+B2815	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+POWER SUPPLY HIGH VOLTAGE
+
+B2816	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+BRAKE CONTROL ERROR
+
+B281E	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+RAB CONTROL MODULE
+
+↑
+B281F	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+REVERSE AUTOMATIC BRAKING OVERRIDE
+
+B2821	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+REVERSE AUTOMATIC BRAKING CONTROL PROHIBITION
+
+B2822	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+TCM DATA ABNORMAL
+
+B28A0	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+VEHICLE MODEL JUDGMENT
+
+B28A1	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+EyeSight COMMUNICATION(ECM)
+
+↑
+B28A2	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+EyeSight COMMUNICATION(VDC)
+
+B28A3	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+EyeSight COMMUNICATION(METER)
+
+B28A5	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+ENGINE TORQUE LIMITER CONTROL PROHIBIT
+
+B28A6	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+INTERNAL STEREO CAMERA COMMUNICATION 1
+
+B28A7	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+STEREO CAMERA RECOGNITION(TARGET)
+
+↑
+B28A8	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+INTERNAL STEREO CAMERA COMMUNICATION 2
+
+B28A9	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+STEREO CAMERA SYNCHRONIZED RECOGNITION DATA
+
+B28AA	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+STEREO CAMERA MICROCOMPUTER 1
+
+B28AB	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+STEREO CAMERA MICROCOMPUTER 2
+
+B28AC	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+STEREO CAMERA ASIC
+
+↑
+B28AD	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+STEREO CAMERA IMAGE RECOGNITION
+
+B28AE	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+INTERNAL STEREO CAMERA POWER SUPPLY
+
+B28AF	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+STEREO CAMERA ADJUSTMENT INCOMPLETE
+
+B28B1	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+STEREO CAMERA AUTOMATIC ADJUSTMENT
+
+B28B2	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+STEREO CAMERA HIGH TEMPERATURE
+
+↑
+B28B3	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+STEREO CAMERA LOW TEMPERATURE
+
+B28B5	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
++B CIRCUIT OPEN
+
+B28B8	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+EyeSight STEERING SWITCH 1
+
+B28B9	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+EyeSight STEERING SWITCH 2
+
+B28BD	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+STEREO CAMERA LOW TEMPERATURE(OUTAGE)
+
+↑
+B28DD	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+EYESIGHT SECURITY GATEWAY NON-VOLATILE MEMORY
+
+B28DE	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+EYESIGHT SECURITY GATEWAY
+
+B2900	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [HEADLIGHT / FOGLIGHT(DIAGNOSTICS)]
+AHL CONTROL
+
+B2904	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [HEADLIGHT / FOGLIGHT(DIAGNOSTICS)]
+LED HEADLIGHT CIRCUIT RH
+
+B2905	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [HEADLIGHT / FOGLIGHT(DIAGNOSTICS)]
+LED HEAD LIGHT CIRCUIT LH
+
+↑
+B2908	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [HEADLIGHT / FOGLIGHT(DIAGNOSTICS)]
+STEERING RESPONSIVE HEADLIGHT ACTUATOR RH
+
+B2909	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [HEADLIGHT / FOGLIGHT(DIAGNOSTICS)]
+STEERING RESPONSIVE HEADLIGHT ACTUATOR LH
+
+B2910	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [HEADLIGHT / FOGLIGHT(DIAGNOSTICS)]
+STEERING RESPONSIVE HEADLIGHT COMMUNICATION RH
+
+B2911	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [HEADLIGHT / FOGLIGHT(DIAGNOSTICS)]
+STEERING RESPONSIVE HEADLIGHT COMMUNICATION LH
+
+B2916	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [HEADLIGHT / FOGLIGHT(DIAGNOSTICS)]
+AUTO HEADLAMP LEVELING CIRCUIT
+
+↑
+B2917	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [HEADLIGHT / FOGLIGHT(DIAGNOSTICS)]
+AUTO HEADLAMP LEVELING SWITCH STUCK
+
+B2918	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [HEADLIGHT / FOGLIGHT(DIAGNOSTICS)]
+AUTO HEADLAMP LEVELING ACTUATOR MOTOR CIRCUIT
+
+B2919	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [HEADLIGHT / FOGLIGHT(DIAGNOSTICS)]
+AUTO HEADLAMP LEVELING SENSOR SIGNAL
+
+B291A	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [HEADLIGHT / FOGLIGHT(DIAGNOSTICS)]
+AUTO HEADLAMP LEVELING SENSOR RANGE/PERFORMANCE
+
+B2A00	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TELEMATICS SYSTEM (DIAGNOSTICS)]
+VIN READING
+
+↑
+B2A01	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TELEMATICS SYSTEM (DIAGNOSTICS)]
+LTE1 ANTENNA CIRCUIT
+
+B2A02	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TELEMATICS SYSTEM (DIAGNOSTICS)]
+LTE2 ANTENNA CIRCUIT
+
+B2A03	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TELEMATICS SYSTEM (DIAGNOSTICS)]
+GPS ANTENNA CIRCUIT
+
+B2A04	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TELEMATICS SYSTEM (DIAGNOSTICS)]
+MIC CIRCUIT
+
+B2A05	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TELEMATICS SYSTEM (DIAGNOSTICS)]
+LEFT SPEAKER/AUDIO CIRCUIT
+
+↑
+B2A06	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TELEMATICS SYSTEM (DIAGNOSTICS)]
+RIGHT SPEAKER/AUDIO CIRCUIT
+
+B2A07	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TELEMATICS SYSTEM (DIAGNOSTICS)]
+BACKUP BATTERY CHARGE SYSTEM PERFORMANCE
+
+B2A08	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TELEMATICS SYSTEM (DIAGNOSTICS)]
+SOS BUTTON CIRCUIT
+
+B2A09	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TELEMATICS SYSTEM (DIAGNOSTICS)]
+I-CALL BUTTON CIRCUIT
+
+B2A0A	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TELEMATICS SYSTEM (DIAGNOSTICS)]
+RED LED CIRCUIT
+
+↑
+B2A0B	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TELEMATICS SYSTEM (DIAGNOSTICS)]
+GREEN LED CIRCUIT
+
+B2A0C	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TELEMATICS SYSTEM (DIAGNOSTICS)]
+DCM PERFORMANCE
+
+B2A0D	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TELEMATICS SYSTEM (DIAGNOSTICS)]
+AIRBAG SIGNAL PERFORMANCE
+
+B2A0E	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TELEMATICS SYSTEM (DIAGNOSTICS)]
+MUTE LINE CIRCUIT
+
+B2A0F	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TELEMATICS SYSTEM (DIAGNOSTICS)]
+BACKUP BATTERY DEGRADATION
+
+↑
+B2A10	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TELEMATICS SYSTEM (DIAGNOSTICS)]
+BATTERY VOLTAGE HIGH
+
+B2A14	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TELEMATICS SYSTEM (DIAGNOSTICS)]
+WIFI CHIPSET
+
+B2A16	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TELEMATICS SYSTEM (DIAGNOSTICS)]
+IMMOBILIZER KEY COLLATION
+
+B2B00	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER WINDOW(DIAGNOSTICS) ]
+DRIVER'S DOOR POWER WINDOW AUTO SWITCH STUCK
+
+B2B01	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER WINDOW(DIAGNOSTICS) ]
+DRIVER'S DOOR POWER WINDOW MANUAL UP SWITCH STUCK
+
+↑
+B2B02	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER WINDOW(DIAGNOSTICS) ]
+DRIVER'S DOOR POWER WINDOW MANUAL DOWN SWITCH STUCK
+
+B2B03	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER WINDOW(DIAGNOSTICS) ]
+DRIVER'S DOOR POWER WINDOW PULSE1 AND 2 NO SIGNAL
+
+B2B04	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER WINDOW(DIAGNOSTICS) ]
+DRIVER'S DOOR POWER WINDOW PULSE 1 NO SIGNAL
+
+B2B05	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER WINDOW(DIAGNOSTICS) ]
+DRIVER'S DOOR POWER WINDOW PULSE 2 NO SIGNAL
+
+B2B06	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER WINDOW(DIAGNOSTICS) ]
+DRIVER'S DOOR POWER WINDOW PULSE DIRECTION
+
+↑
+B2B07	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER WINDOW(DIAGNOSTICS) ]
+DRIVER'S DOOR POWER WINDOW POSITION
+
+B2B08	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER WINDOW(DIAGNOSTICS) ]
+DRIVER'S DOOR POWER WINDOW CONTINUOUS REVERSAL
+
+B2B09	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER WINDOW(DIAGNOSTICS) ]
+DRIVER'S DOOR POWER WINDOW CONTROL MODULE EEPROM
+
+B2B10	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER WINDOW(DIAGNOSTICS) ]
+PASSENGER'S DOOR POWER WINDOW DRIVER'S DOOR AUTO SWITCH STUCK
+
+B2B11	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER WINDOW(DIAGNOSTICS) ]
+PASSENGER'S DOOR POWER WINDOW DRIVER'S DOOR MANUAL UP SWITCH STUCK
+
+↑
+B2B12	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER WINDOW(DIAGNOSTICS) ]
+PASSENGER'S DOOR POWER WINDOW DRIVER'S DOOR MANUAL DOWN SWITCH STUCK
+
+B2B20	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER WINDOW(DIAGNOSTICS) ]
+PASSENGER'S DOOR POWER WINDOW AUTO SWITCH STUCK
+
+B2B21	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER WINDOW(DIAGNOSTICS) ]
+PASSENGER'S DOOR POWER WINDOW MANUAL UP SWITCH STUCK
+
+B2B22	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER WINDOW(DIAGNOSTICS) ]
+PASSENGER'S DOOR POWER WINDOW MANUAL DOWN SWITCH STUCK
+
+B2B23	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER WINDOW(DIAGNOSTICS) ]
+PASSENGER'S DOOR POWER WINDOW PULSE 1 AND 2 NO SIGNAL
+
+↑
+B2B24	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER WINDOW(DIAGNOSTICS) ]
+PASSENGER'S DOOR POWER WINDOW PULSE 1 NO SIGNAL
+
+B2B25	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER WINDOW(DIAGNOSTICS) ]
+PASSENGER'S DOOR POWER WINDOW PULSE 2 NO SIGNAL
+
+B2B26	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER WINDOW(DIAGNOSTICS) ]
+PASSENGER'S DOOR POWER WINDOW PULSE DIRECTION
+
+B2B27	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER WINDOW(DIAGNOSTICS) ]
+PASSENGER'S DOOR POWER WINDOW POSITION
+
+B2B28	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER WINDOW(DIAGNOSTICS) ]
+PASSENGER'S DOOR POWER WINDOW CONTINUOUS REVERSAL
+
+↑
+B2B29	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER WINDOW(DIAGNOSTICS) ]
+PASSENGER'S DOOR POWER WINDOW CONTROL MODULE EEPROM
+
+B2B50	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER WINDOW(DIAGNOSTICS) ]
+POWER WINDOW MAIN SWITCH FAILURE
+
+B2C00	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+SONAR CONTROL MODULE CIRCUIT
+
+B2C01	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+RR SONAR CONTROL MODULE CIRCUIT
+
+B2C02	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+RRC SONAR CONTROL MODULE CIRCUIT
+
+↑
+B2C03	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+RL SONAR CONTROL MODULE CIRCUIT
+
+B2C04	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+RLC SONAR CONTROL MODULE CIRCUIT
+
+B2C05	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+SONAR CONTROL MODULE POWER SUPPLY
+
+B2C06	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+RR SONAR SENSOR CIRCUIT / NO SIGNAL
+
+B2C07	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+RR SONAR SENSOR / SONAR CONTROL MODULE CIRCUIT
+
+↑
+B2C08	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+RRC SONAR SENSOR CIRCUIT / NO SIGNAL
+
+B2C09	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+RRC SONAR SENSOR / SONAR CONTROL MODULE CIRCUIT
+
+B2C0A	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+RL SONAR SENSOR CIRCUIT / NO SIGNAL
+
+B2C0B	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+RL SONAR SENSOR / SONAR CONTROL MODULE CIRCUIT
+
+B2C0C	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+RLC SONAR SENSOR CIRCUIT / NO SIGNAL
+
+↑
+B2C0D	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+RLC SONAR SENSOR / SONAR CONTROL MODULE CIRCUIT
+
+B2C0E	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+RR SONAR HARNESS HIGH
+
+B2C0F	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+RR SONAR HARNESS LOW
+
+B2C10	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+RRC SONAR HARNESS HIGH
+
+B2C11	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+RRC SONAR HARNESS LOW
+
+↑
+B2C12	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+RL SONAR HARNESS HIGH
+
+B2C13	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+RL SONAR HARNESS LOW
+
+B2C14	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+RLC SONAR HARNESS HIGH
+
+B2C15	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+RLC SONAR HARNESS LOW
+
+B2C16	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+RRC SONAR HARNESS HIGH / RRC SONAR CONTROL MODULE CIRCUIT
+
+↑
+B2C17	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+RLC SONAR HARNESS HIGH / RLC SONAR CONTROL MODULE CIRCUIT
+
+B2C18	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+RR SONAR HARNESS HIGH / RR SONAR CONTROL MODULE CIRCUIT
+
+B2C19	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+RL SONAR HARNESS HIGH / RL SONAR CONTROL MODULE CIRCUIT
+
+B2C1A	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+RRC SONAR SENSOR
+
+B2C1B	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+RLC SONAR SENSOR
+
+↑
+B2C1C	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+RR SONAR SENSOR
+
+B2C1D	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+RL SONAR SENSOR
+
+B2C1E	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+RRC SONAR HARNESS LOW / RRC SONAR CONTROL MODULE CIRCUIT
+
+B2C1F	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+RLC SONAR HARNESS LOW / RLC SONAR CONTROL MODULE CIRCUIT
+
+B2C20	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+RR SONAR HARNESS LOW / RR SONAR CONTROL MODULE CIRCUIT
+
+↑
+B2C21	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+RL SONAR HARNESS LOW / RL SONAR CONTROL MODULE CIRCUIT
+
+B2C22	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+Eyesight System
+
+C1211	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+FRONT RIGHT ABS SENSOR CIRCUIT
+
+C1212	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+FRONT RIGHT ABS SENSOR SIGNAL
+
+C1221	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+FRONT LEFT ABS SENSOR CIRCUIT
+
+↑
+C1222	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+FRONT LEFT ABS SENSOR SIGNAL
+
+C1231	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+REAR RIGHT ABS SENSOR CIRCUIT
+
+C1232	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+REAR RIGHT ABS SENSOR SIGNAL
+
+C1241	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+REAR LEFT ABS SENSOR CIRCUIT
+
+C1242	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+REAR LEFT ABS SENSOR SIGNAL
+
+↑
+C1251	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+WHEEL SPEED SENSOR SYSTEM
+
+C1252	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+WHEEL SPEED SENSOR SIGNAL OF ONE OF THE WHEELS
+
+C1311	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+FR HOLD VALVE
+
+C1312	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+FR PRESSURE REDUCING VALVE
+
+C1321	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+FL HOLD VALVE
+
+↑
+C1322	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+FL PRESSURE REDUCING VALVE
+
+C1331	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+RR HOLD VALVE
+
+C1332	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+RR PRESSURE REDUCING VALVE
+
+C1341	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+RL HOLD VALVE
+
+C1342	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+RL PRESSURE REDUCING VALVE
+
+↑
+C1351	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+NORMAL OPENING VALVE 1
+
+C1352	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+NORMAL OPENING VALVE 2
+
+C1361	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+NORMAL CLOSING VALVE 1
+
+C1362	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+NORMAL CLOSING VALVE 2
+
+C1411	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+ELECTRICAL CONTROL MODULE
+
+↑
+C1412	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+SELECTED PARAMETER
+
+C1413	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+POWER SUPPLY VOLTAGE
+
+C1422	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+VDC INTERRUPTION FOR ENGINE CONVENIENCE
+
+C1423	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+DIFFERENT ECU SPECIFICATIONS
+
+C1424	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+ECM
+
+↑
+C1431	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+AT
+
+C1432	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+DIFFERENT ECU SPECIFICATIONS
+
+C1441	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+EyeSight REQUEST PRESSURE ABNORMAL
+
+C1511	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+VALVE RELAY
+
+C1511	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER STEERING (DIAGNOSTICS)]
+TORQUE SENSOR 1 ABNORMAL
+
+↑
+C1512	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+VALVE SYSTEM
+
+C1512	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER STEERING (DIAGNOSTICS)]
+TORQUE SENSOR 2 ABNORMAL
+
+C1513	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER STEERING (DIAGNOSTICS)]
+TORQUE SENSOR 3 ABNORMAL
+
+C1514	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER STEERING (DIAGNOSTICS)]
+TORQUE SENSOR POWER SUPPLY FAILURE
+
+C1515	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER STEERING (DIAGNOSTICS)]
+TORQUE SENSOR ZERO POINT ADJUSTMENT UNDONE
+
+↑
+C1516	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER STEERING (DIAGNOSTICS)]
+TORQUE SENSOR ZERO POINT ADJUSTMENT INCOMPLETE
+
+C1517	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER STEERING (DIAGNOSTICS)]
+TORQUE SENSOR HOLD ABNORMALITY
+
+C1521	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+MOTOR RELAY
+
+C1521	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER STEERING (DIAGNOSTICS)]
+MOTOR FAILURE 1
+
+C1522	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER STEERING (DIAGNOSTICS)]
+MOTOR FAILURE 2
+
+↑
+C1523	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER STEERING (DIAGNOSTICS)]
+MOTOR FAILURE 3
+
+C1528	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER STEERING (DIAGNOSTICS)]
+MOTOR ROTATION ANGLE SENSOR
+
+C1531	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+BLS OFF STUCK
+
+C1532	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+BLS ON STUCK
+
+C1532	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER STEERING (DIAGNOSTICS)]
+ECU MALFUNCTION 2
+
+↑
+C1533	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER STEERING (DIAGNOSTICS)]
+ECU MALFUNCTION 3
+
+C1534	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER STEERING (DIAGNOSTICS)]
+ECU MALFUNCTION 4
+
+C1541	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+CLUTCH OFF FAULT
+
+C1541	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER STEERING (DIAGNOSTICS)]
+VEHICLE SPEED SIGNAL FAILURE 1
+
+C1551	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER STEERING (DIAGNOSTICS)]
+IG POWER SUPPLY VOLTAGE
+
+↑
+C1552	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER STEERING (DIAGNOSTICS)]
+PIG POWER SUPPLY VOLTAGE
+
+C1554	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER STEERING (DIAGNOSTICS)]
+POWER SUPPLY RELAY FAILURE
+
+C1555	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER STEERING (DIAGNOSTICS)]
+MOTOR RELAY WELDING FAILURE
+
+C1571	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+BRAKE LAMP RELAY OFF STUCK
+
+C1572	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+BRAKE LAMP RELAY ON STUCK
+
+↑
+C1581	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+BRAKE BOOST NEGATIVE PRESSURE ABNORMAL
+
+C1581	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER STEERING (DIAGNOSTICS)]
+ASSIST MAP NOT WRITTEN
+
+C1582	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER STEERING (DIAGNOSTICS)]
+ASSIST MAP NUMBER MISMATCH
+
+C1583	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER STEERING (DIAGNOSTICS)]
+ASSIST MAP SELECTION ERROR
+
+C1711	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+STEERING ANGLE SENSOR
+
+↑
+C1721	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+YAW RATE SENSOR
+
+C1731	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+G SENSOR ABNORMAL
+
+C1732	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+LATERAL G SENSOR
+
+C1733	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+LONGITUDINAL G SENSOR
+
+C1741	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+PRESSURE SENSOR
+
+↑
+C1742	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+WHEEL CYLINDER PRESSURE SENSOR
+
+C1751	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+BRAKE BOOST GAUGE SENSOR
+
+C1811	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+SYSTEM
+
+C1935	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+IGNITION SWITCH CIRCUIT
+
+C1E00	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+REGISTRATION FAULT OF AUTHENTICATION UNIT
+
+↑
+C1E00	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [CENTRAL GATEWAY (DIAGNOSTICS)]
+REGISTRATION FAULT OF AUTHENTICATION UNIT
+
+C1E00	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [STEERING ANGLE SENSOR]
+REGISTRATION FAULT OF AUTHENTICATION UNIT
+
+C2111	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TIRE PRESSURE MONITOR(DIAGNOSTICS)]
+TRANSMITTER ID1 OPERATION STOP
+
+C2112	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TIRE PRESSURE MONITOR(DIAGNOSTICS)]
+TRANSMITTER ID2 OPERATION STOP
+
+C2113	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TIRE PRESSURE MONITOR(DIAGNOSTICS)]
+TRANSMITTER ID3 OPERATION STOP
+
+↑
+C2114	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TIRE PRESSURE MONITOR(DIAGNOSTICS)]
+TRANSMITTER ID4 OPERATION STOP
+
+C2121	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TIRE PRESSURE MONITOR(DIAGNOSTICS)]
+NO SIGNAL FROM TRANSMITTER ID1 IN MAIN MODE
+
+C2122	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TIRE PRESSURE MONITOR(DIAGNOSTICS)]
+NO SIGNAL FROM TRANSMITTER ID2 IN MAIN MODE
+
+C2123	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TIRE PRESSURE MONITOR(DIAGNOSTICS)]
+NO SIGNAL FROM TRANSMITTER ID3 IN MAIN MODE
+
+C2124	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TIRE PRESSURE MONITOR(DIAGNOSTICS)]
+NO SIGNAL FROM TRANSMITTER ID4 IN MAIN MODE
+
+↑
+C2126	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TIRE PRESSURE MONITOR(DIAGNOSTICS)]
+TRANSMITTER ID CHECK
+
+C2141	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TIRE PRESSURE MONITOR(DIAGNOSTICS)]
+TRANSMITTER ID1 ERROR
+
+C2142	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TIRE PRESSURE MONITOR(DIAGNOSTICS)]
+TRANSMITTER ID2 ERROR
+
+C2143	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TIRE PRESSURE MONITOR(DIAGNOSTICS)]
+TRANSMITTER ID3 ERROR
+
+C2144	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TIRE PRESSURE MONITOR(DIAGNOSTICS)]
+TRANSMITTER ID4 ERROR
+
+↑
+C2171	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TIRE PRESSURE MONITOR(DIAGNOSTICS)]
+TRANSMITTER ID NOT REGISTERED
+
+C2176	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TIRE PRESSURE MONITOR(DIAGNOSTICS)]
+RECEIVER ERROR
+
+C2177	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TIRE PRESSURE MONITOR(DIAGNOSTICS)]
+INITIALIZATION NOT COMPLETED
+
+P000A	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+"A" CAMSHAFT POSITION SLOW RESPONSE BANK 1
+
+P000B	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+"B" CAMSHAFT POSITION SLOW RESPONSE BANK 1
+
+↑
+P000C	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+"A" CAMSHAFT POSITION SLOW RESPONSE BANK 2
+
+P000D	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+"B" CAMSHAFT POSITION SLOW RESPONSE BANK 2
+
+P0010	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+"A" CAMSHAFT POSITION ACTUATOR CONTROL CIRCUIT/OPEN BANK 1
+
+P0011	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+"A" CAMSHAFT POSITION - TIMING OVER-ADVANCED OR SYSTEM PERFORMANCE BANK 1
+
+P0013	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+"B" CAMSHAFT POSITION ACTUATOR CONTROL CIRCUIT/OPEN BANK 1
+
+↑
+P0014	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+"B" CAMSHAFT POSITION - TIMING OVER-ADVANCED OR SYSTEM PERFORMANCE BANK 1
+
+P0016	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+CRANKSHAFT POSITION - CAMSHAFT POSITION CORRELATION BANK 1 SENSOR A
+
+P0017	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+CRANKSHAFT POSITION - CAMSHAFT POSITION CORRELATION BANK 1 SENSOR B
+
+P0018	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+CRANKSHAFT POSITION - CAMSHAFT POSITION CORRELATION BANK 2 SENSOR A
+
+P0019	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+CRANKSHAFT POSITION - CAMSHAFT POSITION CORRELATION BANK 2 SENSOR B
+
+↑
+P0020	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+"A" CAMSHAFT POSITION ACTUATOR CONTROL CIRCUIT/OPEN BANK 2
+
+P0021	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+"A" CAMSHAFT POSITION - TIMING OVER-ADVANCED OR SYSTEM PERFORMANCE BANK 2
+
+P0023	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+"B" CAMSHAFT POSITION ACTUATOR CONTROL CIRCUIT/OPEN BANK 2
+
+P0024	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+"B" CAMSHAFT POSITION - TIMING OVER-ADVANCED OR SYSTEM PERFORMANCE BANK 2
+
+P0030	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+A/F / O2 HEATER CONTROL CIRCUIT BANK 1 SENSOR 1
+
+↑
+P0031	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+A/F / O2 HEATER CONTROL CIRCUIT LOW BANK 1 SENSOR 1
+
+P0032	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+A/F / O2 HEATER CONTROL CIRCUIT HIGH BANK 1 SENSOR 1
+
+P0037	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+A/F / O2 HEATER CONTROL CIRCUIT LOW BANK 1 SENSOR 2
+
+P0038	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+A/F / O2 HEATER CONTROL CIRCUIT HIGH BANK 1 SENSOR 2
+
+P0068	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+MAP/MAF - THROTTLE POSITION CORRELATION
+
+↑
+P0071	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+AMBIENT AIR TEMPERATURE SENSOR CIRCUIT "A" RANGE/PERFORMANCE
+
+P0072	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+AMBIENT AIR TEMPERATURE SENSOR CIRCUIT "A" LOW
+
+P0073	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+AMBIENT AIR TEMPERATURE SENSOR CIRCUIT "A" HIGH
+
+P0087	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+FUEL RAIL/SYSTEM PRESSURE - TOO LOW BANK 1
+
+P0088	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+FUEL RAIL/SYSTEM PRESSURE - TOO HIGH BANK 1
+
+↑
+P0101	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+MASS OR VOLUME AIR FLOW SENSOR "A" CIRCUIT RANGE/PERFORMANCE
+
+P0102	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+MASS OR VOLUME AIR FLOW SENSOR "A" CIRCUIT LOW
+
+P0103	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+MASS OR VOLUME AIR FLOW SENSOR "A" CIRCUIT HIGH
+
+P0107	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+MANIFOLD ABSOLUTE PRESSURE/BAROMETRIC PRESSURE SENSOR CIRCUIT LOW
+
+P0108	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+MANIFOLD ABSOLUTE PRESSURE/BAROMETRIC PRESSURE SENSOR CIRCUIT HIGH
+
+↑
+P0111	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+INTAKE AIR TEMPERATURE SENSOR 1 CIRCUIT RANGE/PERFORMANCE BANK 1
+
+P0112	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+INTAKE AIR TEMPERATURE SENSOR 1 CIRCUIT LOW BANK 1
+
+P0113	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+INTAKE AIR TEMPERATURE SENSOR 1 CIRCUIT HIGH BANK 1
+
+P0116	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+ENGINE COOLANT TEMPERATURE SENSOR 1 CIRCUIT RANGE/PERFORMANCE
+
+P0117	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+ENGINE COOLANT TEMPERATURE SENSOR 1 CIRCUIT LOW
+
+↑
+P0118	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+ENGINE COOLANT TEMPERATURE SENSOR 1 CIRCUIT HIGH
+
+P0122	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+THROTTLE/PEDAL POSITION SENSOR/SWITCH "A" CIRCUIT LOW
+
+P0123	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+THROTTLE/PEDAL POSITION SENSOR/SWITCH "A" CIRCUIT HIGH
+
+P0125	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+INSUFFICIENT COOLANT TEMPERATURE FOR CLOSED LOOP FUEL CONTROL
+
+P0128	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+COOLANT THERMOSTAT (ENGINE COOLANT TEMPERATURE BELOW THERMOSTAT REGULATING TEMPERATURE)
+
+↑
+P0131	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+A/F / O2 SENSOR CIRCUIT LOW VOLTAGE BANK 1 SENSOR 1
+
+P0132	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+A/F / O2 SENSOR CIRCUIT HIGH VOLTAGE BANK 1 SENSOR 1
+
+P0134	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+A/F / O2 SENSOR CIRCUIT NO ACTIVITY DETECTED BANK 1 SENSOR 1
+
+P0137	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+O2 SENSOR CIRCUIT LOW VOLTAGE BANK 1 SENSOR 2
+
+P0138	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+O2 SENSOR CIRCUIT HIGH VOLTAGE BANK 1 SENSOR 2
+
+↑
+P013A	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+O2 SENSOR SLOW RESPONSE - RICH TO LEAN BANK 1 SENSOR 2
+
+P013B	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+O2 SENSOR SLOW RESPONSE - LEAN TO RICH BANK 1 SENSOR 2
+
+P013E	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+O2 SENSOR DELAYED RESPONSE - RICH TO LEAN BANK 1 SENSOR 2
+
+P013F	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+O2 SENSOR DELAYED RESPONSE - LEAN TO RICH BANK 1 SENSOR 2
+
+P0140	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+O2 SENSOR CIRCUIT NO ACTIVITY DETECTED BANK 1 SENSOR 2
+
+↑
+P0141	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+O2 SENSOR HEATER CIRCUIT BANK 1 SENSOR 2
+
+P014C	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+A/F / O2 SENSOR SLOW RESPONSE - RICH TO LEAN BANK 1 SENSOR 1
+
+P014D	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+A/F / O2 SENSOR SLOW RESPONSE - LEAN TO RICH BANK 1 SENSOR 1
+
+P015A	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+A/F / O2 SENSOR DELAYED RESPONSE - RICH TO LEAN BANK 1 SENSOR 1
+
+P015B	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+A/F / O2 SENSOR DELAYED RESPONSE - LEAN TO RICH BANK 1 SENSOR 1
+
+↑
+P0171	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+SYSTEM TOO LEAN BANK 1
+
+P0172	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+SYSTEM TOO RICH BANK 1
+
+P0191	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+FUEL RAIL PRESSURE SENSOR CIRCUIT RANGE/PERFORMANCE BANK 1
+
+P0192	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+FUEL RAIL PRESSURE SENSOR CIRCUIT LOW BANK 1
+
+P0193	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+FUEL RAIL PRESSURE SENSOR CIRCUIT HIGH BANK 1
+
+↑
+P0196	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+ENGINE OIL TEMPERATURE SENSOR "A" RANGE/PERFORMANCE
+
+P0197	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+ENGINE OIL TEMPERATURE SENSOR "A" CIRCUIT LOW
+
+P0198	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+ENGINE OIL TEMPERATURE SENSOR "A" CIRCUIT HIGH
+
+P0201	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+CYLINDER 1 INJECTOR "A" CIRCUIT
+
+P0202	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+CYLINDER 2 INJECTOR "A" CIRCUIT
+
+↑
+P0203	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+CYLINDER 3 INJECTOR "A" CIRCUIT
+
+P0204	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+CYLINDER 4 INJECTOR "A" CIRCUIT
+
+P0222	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+THROTTLE/PEDAL POSITION SENSOR/SWITCH "B" CIRCUIT LOW
+
+P0223	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+THROTTLE/PEDAL POSITION SENSOR/SWITCH "B" CIRCUIT HIGH
+
+P0300	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+RANDOM/MULTIPLE CYLINDER MISFIRE DETECTED
+
+↑
+P0301	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+CYLINDER 1 MISFIRE DETECTED
+
+P0302	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+CYLINDER 2 MISFIRE DETECTED
+
+P0303	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+CYLINDER 3 MISFIRE DETECTED
+
+P0304	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+CYLINDER 4 MISFIRE DETECTED
+
+P0327	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+KNOCK/COMBUSTION VIBRATION SENSOR 1 CIRCUIT LOW BANK 1 OR SINGLE SENSOR
+
+↑
+P0328	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+KNOCK/COMBUSTION VIBRATION SENSOR 1 CIRCUIT HIGH BANK 1 OR SINGLE SENSOR
+
+P0332	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+KNOCK/COMBUSTION VIBRATION SENSOR 2 CIRCUIT LOW BANK 2
+
+P0333	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+KNOCK/COMBUSTION VIBRATION SENSOR 2 CIRCUIT HIGH BANK 2
+
+P0335	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+CRANKSHAFT POSITION SENSOR "A" CIRCUIT
+
+P0336	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+CRANKSHAFT POSITION SENSOR "A" CIRCUIT RANGE/PERFORMANCE
+
+↑
+P0340	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+CAMSHAFT POSITION SENSOR "A" CIRCUIT BANK 1 OR SINGLE SENSOR
+
+P0341	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+CAMSHAFT POSITION SENSOR "A" CIRCUIT RANGE/PERFORMANCE BANK 1 OR SINGLE SENSOR
+
+P0345	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+CAMSHAFT POSITION SENSOR "A" CIRCUIT BANK 2
+
+P0346	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+CAMSHAFT POSITION SENSOR "A" CIRCUIT RANGE/PERFORMANCE BANK 2
+
+P0351	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+IGNITION COIL "A" PRIMARY CONTROL CIRCUIT/OPEN
+
+↑
+P0352	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+IGNITION COIL "B" PRIMARY CONTROL CIRCUIT/OPEN
+
+P0353	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+IGNITION COIL "C" PRIMARY CONTROL CIRCUIT/OPEN
+
+P0354	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+IGNITION COIL "D" PRIMARY CONTROL CIRCUIT/OPEN
+
+P0365	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+CAMSHAFT POSITION SENSOR "B" CIRCUIT BANK 1
+
+P0366	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+CAMSHAFT POSITION SENSOR "B" CIRCUIT RANGE/PERFORMANCE BANK 1
+
+↑
+P0390	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+CAMSHAFT POSITION SENSOR "B" CIRCUIT BANK 2
+
+P0391	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+CAMSHAFT POSITION SENSOR "B" CIRCUIT RANGE/PERFORMANCE BANK 2
+
+P0420	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+CATALYST SYSTEM EFFICIENCY BELOW THRESHOLD BANK 1
+
+P0441	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+EVAP SYSTEM (CPC) INCORRECT PURGE FLOW
+
+P0455	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+EVAP SYSTEM (CPC) LEAK DETECTED (LARGE LEAK)
+
+↑
+P0456	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+EVAP SYSTEM (CPC) LEAK DETECTED (VERY SMALL LEAK)
+
+P0458	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+EVAP SYSTEM (CPC) PURGE CONTROL VALVE "A" CIRCUIT LOW
+
+P0459	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+EVAP SYSTEM (CPC) PURGE CONTROL VALVE "A" CIRCUIT HIGH
+
+P0506	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+IDLE CONTROL SYSTEM RPM - LOWER THAN EXPECTED
+
+P0507	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+IDLE CONTROL SYSTEM RPM - HIGHER THAN EXPECTED
+
+↑
+P050A	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+COLD START IDLE CONTROL SYSTEM PERFORMANCE
+
+P050B	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+COLD START IGNITION TIMING PERFORMANCE
+
+P0512	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+STARTER (SWITCH) REQUEST CIRCUIT
+
+P0560	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+SYSTEM VOLTAGE
+
+P0562	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+SYSTEM VOLTAGE LOW
+
+↑
+P0563	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+SYSTEM VOLTAGE HIGH
+
+P0601	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+INTERNAL CONTROL MODULE MEMORY CHECKSUM ERROR
+
+P0604	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+INTERNAL CONTROL MODULE RANDOM ACCESS MEMORY (RAM) ERROR
+
+P0604	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+INTERNAL CONTROL MODULE RANDOM ACCESS MEMORY (RAM) ERROR
+
+P0605	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+INTERNAL CONTROL MODULE READ ONLY MEMORY (ROM) ERROR
+
+↑
+P0605	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+INTERNAL CONTROL MODULE READ ONLY MEMORY (ROM) ERROR
+
+P0606	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+CONTROL MODULE PROCESSOR
+
+P060A	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+INTERNAL CONTROL MODULE MONITORING PROCESSOR PERFORMANCE
+
+P060B	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+INTERNAL CONTROL MODULE A/D PROCESSING PERFORMANCE
+
+P0613	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+TCM PROCESSOR
+
+↑
+P0616	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+STARTER RELAY "A" CIRCUIT LOW
+
+P0617	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+STARTER RELAY "A" CIRCUIT HIGH
+
+P062D	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+FUEL INJECTOR DRIVER CIRCUIT PERFORMANCE BANK 1
+
+P062F	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+INTERNAL CONTROL MODULE EEPROM ERROR
+
+P062F	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+INTERNAL CONTROL MODULE EEPROM ERROR
+
+↑
+P065A	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+GENERATOR/ALTERNATOR SYSTEM PERFORMANCE
+
+P0685	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+ECM/PCM POWER RELAY CONTROL CIRCUIT/OPEN
+
+P0700	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+TRANSMISSION CONTROL SYSTEM (MIL REQUEST)
+
+P0707	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+TRANSMISSION RANGE SENSOR "A" CIRCUIT LOW
+
+P0708	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+TRANSMISSION RANGE SENSOR "A" CIRCUIT HIGH
+
+↑
+P0711	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+TRANSMISSION FLUID TEMPERATURE SENSOR "A" CIRCUIT RANGE/PERFORMANCE
+
+P0712	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+TRANSMISSION FLUID TEMPERATURE SENSOR "A" CIRCUIT LOW
+
+P0713	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+TRANSMISSION FLUID TEMPERATURE SENSOR "A" CIRCUIT HIGH
+
+P0716	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+INPUT/TURBINE SHAFT SPEED SENSOR "A" CIRCUIT RANGE/PERFORMANCE
+
+P0717	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+INPUT/TURBINE SHAFT SPEED SENSOR "A" CIRCUIT NO SIGNAL
+
+↑
+P0721	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+OUTPUT SHAFT SPEED SENSOR CIRCUIT RANGE/PERFORMANCE
+
+P0722	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+OUTPUT SHAFT SPEED SENSOR CIRCUIT NO SIGNAL
+
+P0729	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+GEAR 6 INCORRECT RATIO
+
+P0751	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+SHIFT SOLENOID "A" PERFORMANCE/STUCK OFF
+
+P0752	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+SHIFT SOLENOID "A" STUCK ON
+
+↑
+P0756	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+SHIFT SOLENOID "B" PERFORMANCE/STUCK OFF
+
+P0757	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+SHIFT SOLENOID "B" STUCK ON
+
+P0761	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+SHIFT SOLENOID "C" PERFORMANCE/STUCK OFF
+
+P0762	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+SHIFT SOLENOID "C" STUCK ON
+
+P0766	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+SHIFT SOLENOID "D" PERFORMANCE/STUCK OFF
+
+↑
+P0767	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+SHIFT SOLENOID "D" STUCK ON
+
+P0776	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+PRESSURE CONTROL SOLENOID "B" PERFORMANCE/STUCK OFF
+
+P0781	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+1-2 SHIFT
+
+P0815	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+UPSHIFT SWITCH CIRCUIT
+
+P0816	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+DOWNSHIFT SWITCH CIRCUIT
+
+↑
+P081A	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+STARTER DISABLE CIRCUIT LOW
+
+P0851	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+PARK/NEUTRAL SWITCH INPUT CIRCUIT LOW
+
+P0852	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+PARK/NEUTRAL SWITCH INPUT CIRCUIT HIGH
+
+P0882	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+PVIGN POWER SUPPLY (LOW)
+
+P0894	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+TRANSMISSION COMPONENT SLIPPING
+
+↑
+P0961	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+PRESSURE CONTROL SOLENOID "A" CONTROL CIRCUIT RANGE/PERFORMANCE
+
+P0962	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+PRESSURE CONTROL SOLENOID "A" CONTROL CIRCUIT LOW
+
+P0963	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+PRESSURE CONTROL SOLENOID "A" CONTROL CIRCUIT HIGH
+
+P0965	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+PRESSURE CONTROL SOLENOID "B" CONTROL CIRCUIT RANGE/PERFORMANCE
+
+P0966	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+PRESSURE CONTROL SOLENOID "B" CONTROL CIRCUIT LOW
+
+↑
+P0967	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+PRESSURE CONTROL SOLENOID "B" CONTROL CIRCUIT HIGH
+
+P0973	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+SHIFT SOLENOID "A" CONTROL CIRCUIT LOW
+
+P0974	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+SHIFT SOLENOID "A" CONTROL CIRCUIT HIGH
+
+P0976	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+SHIFT SOLENOID "B" CONTROL CIRCUIT LOW
+
+P0977	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+SHIFT SOLENOID "B" CONTROL CIRCUIT HIGH
+
+↑
+P0979	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+SHIFT SOLENOID "C" CONTROL CIRCUIT LOW
+
+P0980	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+SHIFT SOLENOID "C" CONTROL CIRCUIT HIGH
+
+P0982	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+SHIFT SOLENOID "D" CONTROL CIRCUIT LOW
+
+P0983	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+SHIFT SOLENOID "D" CONTROL CIRCUIT HIGH
+
+P0985	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+SHIFT SOLENOID "E" CONTROL CIRCUIT LOW
+
+↑
+P0986	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+SHIFT SOLENOID "E" CONTROL CIRCUIT HIGH
+
+P0A3B	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+GENERATOR/ALTERNATOR OVER TEMPERATURE
+
+P100A	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+AVCS SYSTEM STUCK
+
+P1109	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+DETECTED THROTTLE DEPOSIT
+
+P1160	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+THROTTLE RETURN SPRING
+
+↑
+P1170	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+FUEL SYSTEM (PORT INJECTION ABNORMAL)
+
+P117B	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+FUEL SYSTEM (DIRECT INJECTION ABNORMAL)
+
+P1192	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+FUEL RAIL PRESSURE SENSOR "B" CIRCUIT LOW
+
+P1193	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+FUEL RAIL PRESSURE SENSOR "B" CIRCUIT HIGH
+
+P119E	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+AIR-FUEL RATIO IMBALANCE FOR PORT INJECTION (BANK1 FLUCTUATION ENGINE SPEED)
+
+↑
+P119F	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+AIR-FUEL RATIO IMBALANCE FOR DIRECT INJECTION （BANK1 FLUCTUATION ENGINE SPEED)
+
+P1235	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+HIGH PRESSURE FUEL PUMP CIRCUIT
+
+P1261	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+CYLINDER 1 DIRECT FUEL INJECTOR CIRCUIT/OPEN
+
+P1262	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+CYLINDER 2 DIRECT FUEL INJECTOR CIRCUIT/OPEN
+
+P1263	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+CYLINDER 3 DIRECT FUEL INJECTOR CIRCUIT/OPEN
+
+↑
+P1264	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+CYLINDER 4 DIRECT FUEL INJECTOR CIRCUIT/OPEN
+
+P1449	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+EVAP SYSTEM CLOG DETECTED (AIR FILTER)
+
+P1451	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+EVAP SYSTEM CLOG DETECTED (PIPE)
+
+P1603	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+ENGINE STALL HISTORY
+
+P1603	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+ENGINE STALL HISTORY
+
+↑
+P1604	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+STARTABILITY MALFUNCTION
+
+P1608	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+INTERNAL CONTROL MODULE MONITORING FUNCTION SELF TEST
+
+P1609	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+INTERNAL CONTROL MODULE MONITORING PROCESSOR SOLENOID CUT CIRCUIT
+
+P160A	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+RANDOM ACCESS MEMORY (RAM) ERROR
+
+P160B	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+INTERNAL CONTROL MODULE MONITORING FUNCTION (CAN DIAGNOSIS)
+
+↑
+P160C	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+INTERNAL CONTROL MODULE MONITORING FUNCTION (A/D CONVERTER)
+
+P162A	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+STARTER INTERLOCK INTERNAL CIRCUIT
+
+P1817	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+MANUAL SWITCH CIRCUIT LOW
+
+P1C00	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+BATTERY MONITOR MODULE "A" PERFORMANCE
+
+P1E00	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [CENTRAL GATEWAY (DIAGNOSTICS)]
+REGISTRATION FAULT OF AUTHENTICATION UNIT
+
+↑
+P1E00	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+REGISTRATION FAULT OF AUTHENTICATION UNIT
+
+P2096	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+POST CATALYST FUEL TRIM SYSTEM TOO LEAN BANK 1
+
+P2097	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+POST CATALYST FUEL TRIM SYSTEM TOO RICH BANK 1
+
+P2101	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+THROTTLE ACTUATOR "A" CONTROL MOTOR CIRCUIT RANGE/PERFORMANCE
+
+P2102	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+THROTTLE ACTUATOR "A" CONTROL MOTOR CIRCUIT LOW
+
+↑
+P2103	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+THROTTLE ACTUATOR "A" CONTROL MOTOR CIRCUIT HIGH
+
+P2109	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+THROTTLE/PEDAL POSITION SENSOR "A" MINIMUM STOP PERFORMANCE
+
+P2119	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+THROTTLE ACTUATOR "A" CONTROL THROTTLE BODY RANGE/PERFORMANCE
+
+P2122	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+THROTTLE/PEDAL POSITION SENSOR/SWITCH "D" CIRCUIT LOW
+
+P2123	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+THROTTLE/PEDAL POSITION SENSOR/SWITCH "D" CIRCUIT HIGH
+
+↑
+P2127	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+THROTTLE/PEDAL POSITION SENSOR/SWITCH "E" CIRCUIT LOW
+
+P2128	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+THROTTLE/PEDAL POSITION SENSOR/SWITCH "E" CIRCUIT HIGH
+
+P2135	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+THROTTLE/PEDAL POSITION SENSOR/SWITCH "A"/"B" VOLTAGE CORRELATION
+
+P2138	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+THROTTLE/PEDAL POSITION SENSOR/SWITCH "D"/"E" VOLTAGE CORRELATION
+
+P2158	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+VEHICLE SPEED SENSOR "B" CIRCUIT
+
+↑
+P2195	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+A/F /O2 SENSOR SIGNAL BIASED/STUCK LEAN BANK 1 SENSOR 1
+
+P2196	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+A/F /O2 SENSOR SIGNAL BIASED/STUCK RICH BANK 1 SENSOR 1
+
+P219A	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+BANK 1 AIR-FUEL RATIO IMBALANCE
+
+P2270	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+O2 SENSOR SIGNAL BIASED/STUCK LEAN BANK 1 SENSOR 2
+
+P2271	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+O2 SENSOR SIGNAL BIASED/STUCK RICH BANK 1 SENSOR 2
+
+↑
+P2401	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+EVAP SYSTEM LEAK DETECTION PUMP CONTROL CIRCUIT LOW
+
+P2402	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+EVAP SYSTEM LEAK DETECTION PUMP CONTROL CIRCUIT HIGH
+
+P2404	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+EVAP SYSTEM LEAK DETECTION PUMP SENSE CIRCUIT RANGE/PERFORMANCE
+
+P2419	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+EVAP SYSTEM SWITCHING VALVE CONTROL CIRCUIT LOW
+
+P2420	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+EVAP SYSTEM SWITCHING VALVE CONTROL CIRCUIT HIGH
+
+↑
+P24B9	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+EVAP SYSTEM LEAK DETECTION PUMP PRESSURE SENSOR CIRCUIT RANGE/PERFORMANCE
+
+P24BA	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+EVAP SYSTEM LEAK DETECTION PUMP PRESSURE SENSOR CIRCUIT LOW
+
+P24BB	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+EVAP SYSTEM LEAK DETECTION PUMP PRESSURE SENSOR CIRCUIT HIGH
+
+P2530	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+IGNITION SWITCH RUN POSITION CIRCUIT
+
+P2610	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+ECM/PCM ENGINE OFF TIMER PERFORMANCE
+
+↑
+P2714	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+PRESSURE CONTROL SOLENOID "D" PERFORMANCE/STUCK OFF
+
+P2719	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+PRESSURE CONTROL SOLENOID "D" CONTROL CIRCUIT RANGE/PERFORMANCE
+
+P2720	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+PRESSURE CONTROL SOLENOID "D" CONTROL CIRCUIT LOW
+
+P2721	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+PRESSURE CONTROL SOLENOID "D" CONTROL CIRCUIT HIGH
+
+P2757	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+TORQUE CONVERTER CLUTCH PRESSURE CONTROL SOLENOID CONTROL CIRCUIT PERFORMANCE/STUCK OFF
+
+↑
+P2758	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+TORQUE CONVERTER CLUTCH PRESSURE CONTROL SOLENOID CONTROL CIRCUIT STUCK ON
+
+P2762	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+TORQUE CONVERTER CLUTCH PRESSURE CONTROL SOLENOID CONTROL CIRCUIT RANGE/PERFORMANCE
+
+P2763	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+TORQUE CONVERTER CLUTCH PRESSURE CONTROL SOLENOID CONTROL CIRCUIT HIGH
+
+P2764	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+TORQUE CONVERTER CLUTCH PRESSURE CONTROL SOLENOID CONTROL CIRCUIT LOW
+
+P2B00	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+CYLINDER 1 INJECTION PULSE PERFORMANCE
+
+↑
+P2B01	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+CYLINDER 2 INJECTION PULSE PERFORMANCE
+
+P2B02	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+CYLINDER 3 INJECTION PULSE PERFORMANCE
+
+P2B03	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+CYLINDER 4 INJECTION PULSE PERFORMANCE
+
+P2B08	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+COLD START CYLINDER 1 INJECTION PULSE PERFORMANCE
+
+P2B09	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+COLD START CYLINDER 2 INJECTION PULSE PERFORMANCE
+
+↑
+P2B0A	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+COLD START CYLINDER 3 INJECTION PULSE PERFORMANCE
+
+P2B0B	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+COLD START CYLINDER 4 INJECTION PULSE PERFORMANCE
+
+U0073	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIR CONDITIONER(DIAGNOSTICS)]
+CONTROL MODULE COMMUNICATION BUS OFF
+
+U0073	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+CONTROL MODULE COMMUNICATION BUS OFF
+
+U0073	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+CONTROL MODULE COMMUNICATION BUS OFF
+
+↑
+U0073	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [CENTRAL GATEWAY (DIAGNOSTICS)]
+CONTROL MODULE COMMUNICATION BUS OFF
+
+U0073	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+CONTROL MODULE COMMUNICATION BUS OFF
+
+U0073	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight SECURITY GATEWAY (DIAGNOSTICS)]
+CONTROL MODULE COMMUNICATION BUS OFF
+
+U0073	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+CONTROL MODULE COMMUNICATION BUS OFF
+
+U0073	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+CONTROL MODULE COMMUNICATION BUS OFF
+
+↑
+U0073	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+CONTROL MODULE COMMUNICATION BUS OFF
+
+U0074	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ACTIVE SOUND CONTROL (DIAGNOSTICS)]
+CONTROL MODULE COMMUNICATION BUS "BODY-CAN" OFF
+
+U0074	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BODY CONTROL(DIAGNOSTICS)]
+CONTROL MODULE COMMUNICATION BUS "BODY-CAN" OFF
+
+U0074	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [CENTRAL GATEWAY (DIAGNOSTICS)]
+CONTROL MODULE COMMUNICATION BUS "BODY-CAN" OFF
+
+U0074	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [COMBINATION METER (DIAGNOSTICS)]
+CONTROL MODULE COMMUNICATION BUS "BODY-CAN" OFF
+
+↑
+U0074	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [HEADLIGHT / FOGLIGHT(DIAGNOSTICS)]
+CONTROL MODULE COMMUNICATION BUS "BODY-CAN" OFF
+
+U0074	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [KEYLESS ACCESS WITH PUSH BUTTON START(DIAGNOSTICS)]
+CONTROL MODULE COMMUNICATION BUS "BODY-CAN" OFF
+
+U0074	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+CONTROL MODULE COMMUNICATION BUS "BODY-CAN" OFF
+
+U0077	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+LIN COMMUNICATION BUS "ECM/PCM" OFF
+
+U0079	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+CONTROL MODULE COMMUNICATION BUS "G" OFF
+
+↑
+U0079	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [CENTRAL GATEWAY (DIAGNOSTICS)]
+CONTROL MODULE COMMUNICATION BUS "G" OFF
+
+U0079	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+CONTROL MODULE COMMUNICATION BUS "G" OFF
+
+U007A	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [Blind Spot Detection/Rear Cross Traffic Alert (DIAGNOSTICS)]
+CONTROL MODULE COMMUNICATION BUS "H" OFF
+
+U007A	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [CENTRAL GATEWAY (DIAGNOSTICS)]
+CONTROL MODULE COMMUNICATION BUS "H" OFF
+
+U007A	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+CONTROL MODULE COMMUNICATION BUS "H" OFF
+
+↑
+U007A	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+CONTROL MODULE COMMUNICATION BUS "H" OFF
+
+U007A	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+CONTROL MODULE COMMUNICATION BUS "H" OFF
+
+U007B	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [CENTRAL GATEWAY (DIAGNOSTICS)]
+CONTROL MODULE COMMUNICATION BUS "I" OFF
+
+U007B	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+CONTROL MODULE COMMUNICATION BUS "I" OFF
+
+U007B	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+CONTROL MODULE COMMUNICATION BUS "I" OFF
+
+↑
+U007C	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [CENTRAL GATEWAY (DIAGNOSTICS)]
+CONTROL MODULE COMMUNICATION BUS "J" OFF
+
+U007C	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [COCKPIT CONTROL (DIAGNOSTICS)]
+CONTROL MODULE COMMUNICATION BUS "J" OFF
+
+U007C	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+CONTROL MODULE COMMUNICATION BUS "J" OFF
+
+U007C	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TELEMATICS SYSTEM (DIAGNOSTICS)]
+CONTROL MODULE COMMUNICATION BUS "J" OFF
+
+U0100	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ACTIVE SOUND CONTROL (DIAGNOSTICS)]
+LOST COMMUNICATION WITH ECM/PCM "A"
+
+↑
+U0100	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIR CONDITIONER(DIAGNOSTICS)]
+LOST COMMUNICATION WITH ECM/PCM "A"
+
+U0100	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+LOST COMMUNICATION WITH ECM/PCM "A"
+
+U0100	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BODY CONTROL(DIAGNOSTICS)]
+LOST COMMUNICATION WITH ECM/PCM "A"
+
+U0100	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+LOST COMMUNICATION WITH ECM/PCM "A"
+
+U0100	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [CENTRAL GATEWAY (DIAGNOSTICS)]
+LOST COMMUNICATION WITH ECM/PCM "A"
+
+↑
+U0100	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [COCKPIT CONTROL (DIAGNOSTICS)]
+LOST COMMUNICATION WITH ECM/PCM "A"
+
+U0100	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [COMBINATION METER (DIAGNOSTICS)]
+LOST COMMUNICATION WITH ECM/PCM "A"
+
+U0100	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+LOST COMMUNICATION WITH ECM/PCM "A"
+
+U0100	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight SECURITY GATEWAY (DIAGNOSTICS)]
+LOST COMMUNICATION WITH ECM/PCM "A"
+
+U0100	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [KEYLESS ACCESS WITH PUSH BUTTON START(DIAGNOSTICS)]
+LOST COMMUNICATION WITH ECM/PCM "A"
+
+↑
+U0100	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+LOST COMMUNICATION WITH ECM/PCM "A"
+
+U0100	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER STEERING (DIAGNOSTICS)]
+LOST COMMUNICATION WITH ECM/PCM "A"
+
+U0100	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+LOST COMMUNICATION WITH ECM/PCM "A"
+
+U0100	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TELEMATICS SYSTEM (DIAGNOSTICS)]
+LOST COMMUNICATION WITH ECM/PCM "A"
+
+U0100	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+LOST COMMUNICATION WITH ECM/PCM "A"
+
+↑
+U0101	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ACTIVE SOUND CONTROL (DIAGNOSTICS)]
+LOST COMMUNICATION WITH TCM
+
+U0101	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+LOST COMMUNICATION WITH TCM
+
+U0101	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [Blind Spot Detection/Rear Cross Traffic Alert (DIAGNOSTICS)]
+LOST COMMUNICATION WITH TCM
+
+U0101	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BODY CONTROL(DIAGNOSTICS)]
+LOST COMMUNICATION WITH TCM
+
+U0101	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+LOST COMMUNICATION WITH TCM
+
+↑
+U0101	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [CENTRAL GATEWAY (DIAGNOSTICS)]
+LOST COMMUNICATION WITH TCM
+
+U0101	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [COCKPIT CONTROL (DIAGNOSTICS)]
+LOST COMMUNICATION WITH TCM
+
+U0101	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [COMBINATION METER (DIAGNOSTICS)]
+LOST COMMUNICATION WITH TCM
+
+U0101	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+LOST COMMUNICATION WITH TCM
+
+U0101	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+LOST COMMUNICATION WITH TCM
+
+↑
+U0101	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight SECURITY GATEWAY (DIAGNOSTICS)]
+LOST COMMUNICATION WITH TCM
+
+U0101	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [HEADLIGHT / FOGLIGHT(DIAGNOSTICS)]
+LOST COMMUNICATION WITH TCM
+
+U0101	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [KEYLESS ACCESS WITH PUSH BUTTON START(DIAGNOSTICS)]
+LOST COMMUNICATION WITH TCM
+
+U0101	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+LOST COMMUNICATION WITH TCM
+
+U0101	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+LOST COMMUNICATION WITH TCM
+
+↑
+U0122	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ACTIVE SOUND CONTROL (DIAGNOSTICS)]
+LOST COMMUNICATION WITH VEHICLE DYNAMICS CONTROL MODULE
+
+U0122	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIR CONDITIONER(DIAGNOSTICS)]
+LOST COMMUNICATION WITH VEHICLE DYNAMICS CONTROL MODULE
+
+U0122	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+LOST COMMUNICATION WITH VEHICLE DYNAMICS CONTROL MODULE
+
+U0122	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [Blind Spot Detection/Rear Cross Traffic Alert (DIAGNOSTICS)]
+LOST COMMUNICATION WITH VEHICLE DYNAMICS CONTROL MODULE
+
+U0122	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BODY CONTROL(DIAGNOSTICS)]
+LOST COMMUNICATION WITH VEHICLE DYNAMICS CONTROL MODULE
+
+↑
+U0122	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [CENTRAL GATEWAY (DIAGNOSTICS)]
+LOST COMMUNICATION WITH VEHICLE DYNAMICS CONTROL MODULE
+
+U0122	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [COCKPIT CONTROL (DIAGNOSTICS)]
+LOST COMMUNICATION WITH VEHICLE DYNAMICS CONTROL MODULE
+
+U0122	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [COMBINATION METER (DIAGNOSTICS)]
+LOST COMMUNICATION WITH VEHICLE DYNAMICS CONTROL MODULE
+
+U0122	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+LOST COMMUNICATION WITH VEHICLE DYNAMICS CONTROL MODULE
+
+U0122	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+LOST COMMUNICATION WITH VEHICLE DYNAMICS CONTROL MODULE
+
+↑
+U0122	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight SECURITY GATEWAY (DIAGNOSTICS)]
+LOST COMMUNICATION WITH VEHICLE DYNAMICS CONTROL MODULE
+
+U0122	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [HEADLIGHT / FOGLIGHT(DIAGNOSTICS)]
+LOST COMMUNICATION WITH VEHICLE DYNAMICS CONTROL MODULE
+
+U0122	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [KEYLESS ACCESS WITH PUSH BUTTON START(DIAGNOSTICS)]
+LOST COMMUNICATION WITH VEHICLE DYNAMICS CONTROL MODULE
+
+U0122	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+LOST COMMUNICATION WITH VEHICLE DYNAMICS CONTROL MODULE
+
+U0122	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER STEERING (DIAGNOSTICS)]
+LOST COMMUNICATION WITH VEHICLE DYNAMICS CONTROL MODULE
+
+↑
+U0122	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+LOST COMMUNICATION WITH VEHICLE DYNAMICS CONTROL MODULE
+
+U0122	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TELEMATICS SYSTEM (DIAGNOSTICS)]
+LOST COMMUNICATION WITH VEHICLE DYNAMICS CONTROL MODULE
+
+U0122	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TIRE PRESSURE MONITOR(DIAGNOSTICS)]
+LOST COMMUNICATION WITH VEHICLE DYNAMICS CONTROL MODULE
+
+U0122	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+LOST COMMUNICATION WITH VEHICLE DYNAMICS CONTROL MODULE
+
+U0126	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+LOST COMMUNICATION WITH STEERING ANGLE SENSOR MODULE
+
+↑
+U0126	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [CENTRAL GATEWAY (DIAGNOSTICS)]
+LOST COMMUNICATION WITH STEERING ANGLE SENSOR MODULE
+
+U0126	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+LOST COMMUNICATION WITH STEERING ANGLE SENSOR MODULE
+
+U0128	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+LOST COMMUNICATION WITH PARK BRAKE CONTROL MODULE
+
+U0128	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+LOST COMMUNICATION WITH PARK BRAKE CONTROL MODULE
+
+U0131	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [CENTRAL GATEWAY (DIAGNOSTICS)]
+LOST COMMUNICATION WITH POWER STEERING CONTROL MODULE
+
+↑
+U0131	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [COMBINATION METER (DIAGNOSTICS)]
+LOST COMMUNICATION WITH POWER STEERING CONTROL MODULE
+
+U0131	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+LOST COMMUNICATION WITH POWER STEERING CONTROL MODULE
+
+U0140	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIR CONDITIONER(DIAGNOSTICS)]
+LOST COMMUNICATION WITH BODY CONTROL MODULE
+
+U0140	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+LOST COMMUNICATION WITH BODY CONTROL MODULE
+
+U0140	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [Blind Spot Detection/Rear Cross Traffic Alert (DIAGNOSTICS)]
+LOST COMMUNICATION WITH BODY CONTROL MODULE
+
+↑
+U0140	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+LOST COMMUNICATION WITH BODY CONTROL MODULE
+
+U0140	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [CENTRAL GATEWAY (DIAGNOSTICS)]
+LOST COMMUNICATION WITH BODY CONTROL MODULE
+
+U0140	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [COCKPIT CONTROL (DIAGNOSTICS)]
+LOST COMMUNICATION WITH BODY CONTROL MODULE
+
+U0140	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [COMBINATION METER (DIAGNOSTICS)]
+LOST COMMUNICATION WITH BODY CONTROL MODULE
+
+U0140	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+LOST COMMUNICATION WITH BODY CONTROL MODULE
+
+↑
+U0140	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+LOST COMMUNICATION WITH BODY CONTROL MODULE
+
+U0140	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+LOST COMMUNICATION WITH BODY CONTROL MODULE
+
+U0140	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TELEMATICS SYSTEM (DIAGNOSTICS)]
+LOST COMMUNICATION WITH BODY CONTROL MODULE
+
+U0140	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+LOST COMMUNICATION WITH BODY CONTROL MODULE
+
+U0146	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+LOST COMMUNICATION WITH SERIAL DATA GATEWAY MODULE "A"
+
+↑
+U0146	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight SECURITY GATEWAY (DIAGNOSTICS)]
+LOST COMMUNICATION WITH SERIAL DATA GATEWAY MODULE "A"
+
+U0146	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+LOST COMMUNICATION WITH SERIAL DATA GATEWAY MODULE "A"
+
+U0151	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [CENTRAL GATEWAY (DIAGNOSTICS)]
+LOST COMMUNICATION WITH RESTRAINTS CONTROL MODULE
+
+U0151	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [COMBINATION METER (DIAGNOSTICS)]
+LOST COMMUNICATION WITH RESTRAINTS CONTROL MODULE
+
+U0151	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+LOST COMMUNICATION WITH RESTRAINTS CONTROL MODULE
+
+↑
+U0151	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TELEMATICS SYSTEM (DIAGNOSTICS)]
+LOST COMMUNICATION WITH RESTRAINTS CONTROL MODULE
+
+U0155	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIR CONDITIONER(DIAGNOSTICS)]
+LOST COMMUNICATION WITH INSTRUMENT PANEL CLUSTER (IPC) CONTROL MODULE
+
+U0155	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+LOST COMMUNICATION WITH INSTRUMENT PANEL CLUSTER (IPC) CONTROL MODULE
+
+U0155	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [Blind Spot Detection/Rear Cross Traffic Alert (DIAGNOSTICS)]
+LOST COMMUNICATION WITH INSTRUMENT PANEL CLUSTER (IPC) CONTROL MODULE
+
+U0155	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BODY CONTROL(DIAGNOSTICS)]
+LOST COMMUNICATION WITH INSTRUMENT PANEL CLUSTER (IPC) CONTROL MODULE
+
+↑
+U0155	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+LOST COMMUNICATION WITH INSTRUMENT PANEL CLUSTER (IPC) CONTROL MODULE
+
+U0155	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [CENTRAL GATEWAY (DIAGNOSTICS)]
+LOST COMMUNICATION WITH INSTRUMENT PANEL CLUSTER (IPC) CONTROL MODULE
+
+U0155	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [COCKPIT CONTROL (DIAGNOSTICS)]
+LOST COMMUNICATION WITH INSTRUMENT PANEL CLUSTER (IPC) CONTROL MODULE
+
+U0155	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+LOST COMMUNICATION WITH INSTRUMENT PANEL CLUSTER (IPC) CONTROL MODULE
+
+U0155	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+LOST COMMUNICATION WITH INSTRUMENT PANEL CLUSTER (IPC) CONTROL MODULE
+
+↑
+U0155	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [KEYLESS ACCESS WITH PUSH BUTTON START(DIAGNOSTICS)]
+LOST COMMUNICATION WITH INSTRUMENT PANEL CLUSTER (IPC) CONTROL MODULE
+
+U0155	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+LOST COMMUNICATION WITH INSTRUMENT PANEL CLUSTER (IPC) CONTROL MODULE
+
+U0155	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+LOST COMMUNICATION WITH INSTRUMENT PANEL CLUSTER (IPC) CONTROL MODULE
+
+U0155	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TELEMATICS SYSTEM (DIAGNOSTICS)]
+LOST COMMUNICATION WITH INSTRUMENT PANEL CLUSTER (IPC) CONTROL MODULE
+
+U0155	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+LOST COMMUNICATION WITH INSTRUMENT PANEL CLUSTER (IPC) CONTROL MODULE
+
+↑
+U0162	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [CENTRAL GATEWAY (DIAGNOSTICS)]
+LOST COMMUNICATION WITH AUDIO VISUAL NAVIGATION DISPLAY MODULE
+
+U0162	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+LOST COMMUNICATION WITH AUDIO VISUAL NAVIGATION DISPLAY MODULE
+
+U0162	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+LOST COMMUNICATION WITH AUDIO VISUAL NAVIGATION DISPLAY MODULE
+
+U0164	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BODY CONTROL(DIAGNOSTICS)]
+LOST COMMUNICATION WITH HVAC CONTROL MODULE
+
+U0164	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [CENTRAL GATEWAY (DIAGNOSTICS)]
+LOST COMMUNICATION WITH HVAC CONTROL MODULE
+
+↑
+U0164	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+LOST COMMUNICATION WITH HVAC CONTROL MODULE
+
+U0181	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [CENTRAL GATEWAY (DIAGNOSTICS)]
+LOST COMMUNICATION WITH HEADLAMP LEVELING CONTROL MODULE
+
+U0181	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [COMBINATION METER (DIAGNOSTICS)]
+LOST COMMUNICATION WITH HEADLAMP LEVELING CONTROL MODULE
+
+U0181	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+LOST COMMUNICATION WITH HEADLAMP LEVELING CONTROL MODULE
+
+U0222	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BODY CONTROL(DIAGNOSTICS)]
+LOST COMMUNICATION WITH DRIVER'S DOOR POWER WINDOW
+
+↑
+U0223	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BODY CONTROL(DIAGNOSTICS)]
+LOST COMMUNICATION WITH PASSENGER'S DOOR POWER WINDOW
+
+U0327	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BODY CONTROL(DIAGNOSTICS)]
+SOFTWARE INCOMPATIBILITY WITH VEHICLE SECURITY CONTROL MODULE
+
+U0327	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [CENTRAL GATEWAY (DIAGNOSTICS)]
+SOFTWARE INCOMPATIBILITY WITH VEHICLE SECURITY CONTROL MODULE
+
+U0327	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [COMBINATION METER (DIAGNOSTICS)]
+SOFTWARE INCOMPATIBILITY WITH VEHICLE SECURITY CONTROL MODULE
+
+U0327	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+SOFTWARE INCOMPATIBILITY WITH VEHICLE SECURITY CONTROL MODULE
+
+↑
+U0401	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIR CONDITIONER(DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM ECM/PCM "A"
+
+U0401	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM ECM/PCM "A"
+
+U0401	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BODY CONTROL(DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM ECM/PCM "A"
+
+U0401	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM ECM/PCM "A"
+
+U0401	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [COCKPIT CONTROL (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM ECM/PCM "A"
+
+↑
+U0401	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM ECM/PCM "A"
+
+U0401	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight SECURITY GATEWAY (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM ECM/PCM "A"
+
+U0401	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [KEYLESS ACCESS WITH PUSH BUTTON START(DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM ECM/PCM "A"
+
+U0401	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM ECM/PCM "A"
+
+U0401	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER STEERING (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM ECM/PCM "A"
+
+↑
+U0401	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM ECM/PCM "A"
+
+U0401	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM ECM/PCM "A"
+
+U0402	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM TCM
+
+U0402	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [Blind Spot Detection/Rear Cross Traffic Alert (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM TCM
+
+U0402	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BODY CONTROL(DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM TCM
+
+↑
+U0402	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM TCM
+
+U0402	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [COCKPIT CONTROL (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM TCM
+
+U0402	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+INVALID DATA RECEIVED FROM TCM
+
+U0402	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM TCM
+
+U0402	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight SECURITY GATEWAY (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM TCM
+
+↑
+U0402	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [HEADLIGHT / FOGLIGHT(DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM TCM
+
+U0402	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM TCM
+
+U0402	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM TCM
+
+U0416	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIR CONDITIONER(DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM VEHICLE DYNAMICS CONTROL MODULE
+
+U0416	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM VEHICLE DYNAMICS CONTROL MODULE
+
+↑
+U0416	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [Blind Spot Detection/Rear Cross Traffic Alert (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM VEHICLE DYNAMICS CONTROL MODULE
+
+U0416	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BODY CONTROL(DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM VEHICLE DYNAMICS CONTROL MODULE
+
+U0416	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [COCKPIT CONTROL (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM VEHICLE DYNAMICS CONTROL MODULE
+
+U0416	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+INVALID DATA RECEIVED FROM VEHICLE DYNAMICS CONTROL MODULE
+
+U0416	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM VEHICLE DYNAMICS CONTROL MODULE
+
+↑
+U0416	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight SECURITY GATEWAY (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM VEHICLE DYNAMICS CONTROL MODULE
+
+U0416	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [HEADLIGHT / FOGLIGHT(DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM VEHICLE DYNAMICS CONTROL MODULE
+
+U0416	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [KEYLESS ACCESS WITH PUSH BUTTON START(DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM VEHICLE DYNAMICS CONTROL MODULE
+
+U0416	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM VEHICLE DYNAMICS CONTROL MODULE
+
+U0416	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [POWER STEERING (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM VEHICLE DYNAMICS CONTROL MODULE
+
+↑
+U0416	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM VEHICLE DYNAMICS CONTROL MODULE
+
+U0416	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM VEHICLE DYNAMICS CONTROL MODULE
+
+U0417	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM PARK BRAKE CONTROL MODULE
+
+U0417	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM PARK BRAKE CONTROL MODULE
+
+U0420	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM POWER STEERING CONTROL MODULE
+
+↑
+U0422	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIR CONDITIONER(DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM BODY CONTROL MODULE
+
+U0422	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM BODY CONTROL MODULE
+
+U0422	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [Blind Spot Detection/Rear Cross Traffic Alert (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM BODY CONTROL MODULE
+
+U0422	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM BODY CONTROL MODULE
+
+U0422	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [COCKPIT CONTROL (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM BODY CONTROL MODULE
+
+↑
+U0422	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM BODY CONTROL MODULE
+
+U0422	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM BODY CONTROL MODULE
+
+U0422	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM BODY CONTROL MODULE
+
+U0422	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM BODY CONTROL MODULE
+
+U0423	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIR CONDITIONER(DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM INSTRUMENT PANEL CLUSTER CONTROL MODULE
+
+↑
+U0423	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIRBAG(DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM INSTRUMENT PANEL CLUSTER CONTROL MODULE
+
+U0423	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [Blind Spot Detection/Rear Cross Traffic Alert (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM INSTRUMENT PANEL CLUSTER CONTROL MODULE
+
+U0423	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BODY CONTROL(DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM INSTRUMENT PANEL CLUSTER CONTROL MODULE
+
+U0423	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM INSTRUMENT PANEL CLUSTER CONTROL MODULE
+
+U0423	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [COCKPIT CONTROL (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM INSTRUMENT PANEL CLUSTER CONTROL MODULE
+
+↑
+U0423	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+INVALID DATA RECEIVED FROM INSTRUMENT PANEL CLUSTER CONTROL MODULE
+
+U0423	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM INSTRUMENT PANEL CLUSTER CONTROL MODULE
+
+U0423	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [KEYLESS ACCESS WITH PUSH BUTTON START(DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM INSTRUMENT PANEL CLUSTER CONTROL MODULE
+
+U0423	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM INSTRUMENT PANEL CLUSTER CONTROL MODULE
+
+U0423	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM INSTRUMENT PANEL CLUSTER CONTROL MODULE
+
+↑
+U0423	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM INSTRUMENT PANEL CLUSTER CONTROL MODULE
+
+U0424	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BODY CONTROL(DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM HVAC CONTROL MODULE
+
+U0424	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM HVAC CONTROL MODULE
+
+U0427	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BODY CONTROL(DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM VEHICLE SECURITY CONTROL MODULE
+
+U0427	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM VEHICLE SECURITY CONTROL MODULE
+
+↑
+U0428	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM STEERING ANGLE SENSOR MODULE
+
+U0428	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM STEERING ANGLE SENSOR MODULE
+
+U0447	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM SERIAL DATA GATEWAY MODULE "A"
+
+U0452	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM RESTRAINTS CONTROL MODULE
+
+U0463	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM NAVIGATION DISPLAY MODULE
+
+↑
+U0463	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM NAVIGATION DISPLAY MODULE
+
+U0463	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM NAVIGATION DISPLAY MODULE
+
+U1077	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+CONTROL MODULE COMMUNICATION BUS "EYESIGHT LOCAL - BUS3" OFF
+
+U1077	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight SECURITY GATEWAY (DIAGNOSTICS)]
+CONTROL MODULE COMMUNICATION BUS "EYESIGHT LOCAL - BUS3" OFF
+
+U1077	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+CONTROL MODULE COMMUNICATION BUS "EYESIGHT LOCAL - BUS3" OFF
+
+↑
+U1122	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [CENTRAL GATEWAY (DIAGNOSTICS)]
+LOST COMMUNICATION WITH VEHICLE DYNAMICS CONTROL MODULE C-CAN
+
+U1122	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+LOST COMMUNICATION WITH VEHICLE DYNAMICS CONTROL MODULE C-CAN
+
+U1131	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [CENTRAL GATEWAY (DIAGNOSTICS)]
+LOST COMMUNICATION WITH POWER STEERING CONTROL MODULE CH-BUS
+
+U1131	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+LOST COMMUNICATION WITH POWER STEERING CONTROL MODULE CH-BUS
+
+U1140	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [HEADLIGHT / FOGLIGHT(DIAGNOSTICS)]
+LOST COMMUNICATION WITH BODY CONTROL MODULE BODY-CAN
+
+↑
+U1140	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [KEYLESS ACCESS WITH PUSH BUTTON START(DIAGNOSTICS)]
+LOST COMMUNICATION WITH BODY CONTROL MODULE BODY-CAN
+
+U1140	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+LOST COMMUNICATION WITH BODY CONTROL MODULE BODY-CAN
+
+U1146	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [AIR CONDITIONER(DIAGNOSTICS)]
+LOST COMMUNICATION WITH GATEWAY "A" BODY-CAN
+
+U1146	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+LOST COMMUNICATION WITH GATEWAY "A" BODY-CAN
+
+U114E	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+LOST COMMUNICATION WITH GATEWAY "A" SS‐BUS
+
+↑
+U114E	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TELEMATICS SYSTEM (DIAGNOSTICS)]
+LOST COMMUNICATION WITH GATEWAY "A" SS‐BUS
+
+U115B	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TELEMATICS SYSTEM (DIAGNOSTICS)]
+LOST COMMUNICATION WITH RESTRAINTS CONTROL MODULE LOCAL BUS
+
+U1198	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [CENTRAL GATEWAY (DIAGNOSTICS)]
+LOST COMMUNICATION WITH TELEMATICS SYSTEM
+
+U1198	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [KEYLESS ACCESS WITH PUSH BUTTON START(DIAGNOSTICS)]
+LOST COMMUNICATION WITH TELEMATICS SYSTEM
+
+U1198	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+LOST COMMUNICATION WITH TELEMATICS SYSTEM
+
+↑
+U1232	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [CENTRAL GATEWAY (DIAGNOSTICS)]
+LOST COMMUNICATION WITH REAR/SIDE RADAR CONTROL MODULE
+
+U1232	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [COCKPIT CONTROL (DIAGNOSTICS)]
+LOST COMMUNICATION WITH REAR/SIDE RADAR CONTROL MODULE
+
+U1232	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [COMBINATION METER (DIAGNOSTICS)]
+LOST COMMUNICATION WITH REAR/SIDE RADAR CONTROL MODULE
+
+U1232	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+LOST COMMUNICATION WITH REAR/SIDE RADAR CONTROL MODULE
+
+U1233	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [CENTRAL GATEWAY (DIAGNOSTICS)]
+LOST COMMUNICATION WITH RAB CONTROL MODULE
+
+↑
+U1233	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+LOST COMMUNICATION WITH RAB CONTROL MODULE
+
+U1233	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+LOST COMMUNICATION WITH RAB CONTROL MODULE
+
+U1235	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BODY CONTROL(DIAGNOSTICS)]
+LOST COMMUNICATION WITH EyeSight
+
+U1235	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+LOST COMMUNICATION WITH EyeSight
+
+U1235	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [CENTRAL GATEWAY (DIAGNOSTICS)]
+LOST COMMUNICATION WITH EyeSight
+
+↑
+U1235	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight SECURITY GATEWAY (DIAGNOSTICS)]
+LOST COMMUNICATION WITH EyeSight
+
+U1235	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+LOST COMMUNICATION WITH EyeSight
+
+U1235	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+LOST COMMUNICATION WITH EyeSight
+
+U127E	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+LOST COMMUNICATION WITH EYESIGHT SECURITY GATEWAY
+
+U127E	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+LOST COMMUNICATION WITH EYESIGHT SECURITY GATEWAY
+
+↑
+U1283	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [CENTRAL GATEWAY (DIAGNOSTICS)]
+LOST COMMUNICATION WITH EYESIGHT SA-BUS
+
+U1283	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [COCKPIT CONTROL (DIAGNOSTICS)]
+LOST COMMUNICATION WITH EYESIGHT SA-BUS
+
+U1283	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [COMBINATION METER (DIAGNOSTICS)]
+LOST COMMUNICATION WITH EYESIGHT SA-BUS
+
+U1283	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+LOST COMMUNICATION WITH EYESIGHT SA-BUS
+
+U1283	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+LOST COMMUNICATION WITH EYESIGHT SA-BUS
+
+↑
+U128D	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [CENTRAL GATEWAY (DIAGNOSTICS)]
+LOST COMMUNICATION WITH SONAR ECU MAIN-CAN
+
+U128D	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+LOST COMMUNICATION WITH SONAR ECU MAIN-CAN
+
+U1422	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [HEADLIGHT / FOGLIGHT(DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM BODY CONTROL MODULE BODY-CAN
+
+U1422	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [KEYLESS ACCESS WITH PUSH BUTTON START(DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM BODY CONTROL MODULE BODY-CAN
+
+U1422	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM BODY CONTROL MODULE BODY-CAN
+
+↑
+U1433	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BODY CONTROL(DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM EyeSight
+
+U1433	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM EyeSight
+
+U1433	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight SECURITY GATEWAY (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM EyeSight
+
+U1433	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM EyeSight
+
+U1433	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM EyeSight
+
+↑
+U1533	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [COCKPIT CONTROL (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM REAR/SIDE RADAR CONTROL MODULE
+
+U1533	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [COMBINATION METER (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM REAR/SIDE RADAR CONTROL MODULE
+
+U1533	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM REAR/SIDE RADAR CONTROL MODULE
+
+U1534	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM SONAR ECU
+
+U1534	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM SONAR ECU
+
+↑
+U157F	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM EYESIGHT SECURITY GATEWAY
+
+U157F	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM EYESIGHT SECURITY GATEWAY
+
+U1584	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [COCKPIT CONTROL (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM EYESIGHT SA-BUS
+
+U1584	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [COMBINATION METER (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM EYESIGHT SA-BUS
+
+U1584	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM EYESIGHT SA-BUS
+
+↑
+U1584	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [REVERSE AUTOMATIC BRAKING (DIAGNOSTICS)]
+INVALID DATA RECEIVED FROM EYESIGHT SA-BUS
+
+U1674	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BODY CONTROL(DIAGNOSTICS)]
+LIN COMMUNICATION BUS 2 ERROR BODY CONTROL MODULE
+
+U1712	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+LOST LIN COMMUNICATION WITH BATTERY "1" MONITOR MODULE
+
+U171F	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [ENGINE (DIAGNOSTICS)(H4DO)]
+LOST LIN COMMUNICATION WITH GENERATOR
+
+U1822	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BODY CONTROL(DIAGNOSTICS)]
+LOST COMMUNICATION WITH MASTER MAIN SWITCH
+
+↑
+U1C00	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+INVALID AUTHENTICATION DATA RECEIVED FROM GATEWAY
+
+U1C00	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight SECURITY GATEWAY (DIAGNOSTICS)]
+INVALID AUTHENTICATION DATA RECEIVED FROM GATEWAY
+
+U1C00	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+INVALID AUTHENTICATION DATA RECEIVED FROM GATEWAY
+
+U1C00	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [STEERING ANGLE SENSOR]
+INVALID AUTHENTICATION DATA RECEIVED FROM GATEWAY
+
+U1C00	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+INVALID AUTHENTICATION DATA RECEIVED FROM GATEWAY
+
+↑
+U1C07	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+INVALID AUTHENTICATION DATA RECEIVED FROM ECM/PCM PU-BUS
+
+U1C07	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight SECURITY GATEWAY (DIAGNOSTICS)]
+INVALID AUTHENTICATION DATA RECEIVED FROM ECM/PCM PU-BUS
+
+U1C07	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+INVALID AUTHENTICATION DATA RECEIVED FROM ECM/PCM PU-BUS
+
+U1C07	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+INVALID AUTHENTICATION DATA RECEIVED FROM ECM/PCM PU-BUS
+
+U1C08	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [EyeSight SECURITY GATEWAY (DIAGNOSTICS)]
+INVALID AUTHENTICATION DATA RECEIVED FROM VDC PU-BUS
+
+↑
+U1C08	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+INVALID AUTHENTICATION DATA RECEIVED FROM VDC PU-BUS
+
+U1C0C	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+INVALID AUTHENTICATION DATA RECEIVED FROM EYESIGHT PU-BUS
+
+U1C0C	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+INVALID AUTHENTICATION DATA RECEIVED FROM EYESIGHT PU-BUS
+
+U1C0F	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [BRAKE CONTROL (DIAGNOSTICS)]
+INVALID AUTHENTICATION DATA RECEIVED FROM STEERING ANGLE SENSOR MODULE CH-BUS
+
+U1C0F	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+INVALID AUTHENTICATION DATA RECEIVED FROM STEERING ANGLE SENSOR MODULE CH-BUS
+
+↑
+U1C10	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+INVALID AUTHENTICATION DATA RECEIVED FROM TCM PU-BUS
+
+U1D00	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+CONTINUINGLY INVALID AUTHENTICATION DATA RECEIVED FROM GATEWAY
+
+U1D00	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+CONTINUINGLY INVALID AUTHENTICATION DATA RECEIVED FROM GATEWAY
+
+U1D07	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+CONTINUINGLY INVALID AUTHENTICATION DATA RECEIVED FROM ECM/PCM PU-BUS
+
+U1D07	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+CONTINUINGLY INVALID AUTHENTICATION DATA RECEIVED FROM ECM/PCM PU-BUS
+
+↑
+U1D08	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+INVALID AUTHENTICATION DATA RECEIVED FROM VDC PU-BUS
+
+U1D10	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+CONTINUINGLY INVALID AUTHENTICATION DATA RECEIVED FROM TCM PU-BUS
+
+U1E00	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+LOST COMMUNICATION OF AUTHENTICATION DATA WITH GATEWAY "A" PU-BUS
+
+U1E00	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [STEERING ANGLE SENSOR]
+LOST COMMUNICATION OF AUTHENTICATION DATA WITH GATEWAY "A" PU-BUS
+
+U1E00	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+LOST COMMUNICATION OF AUTHENTICATION DATA WITH GATEWAY "A" PU-BUS
+
+↑
+U1E07	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+LOST COMMUNICATION OF AUTHENTICATION DATA WITH ECM/PCM PU-BUS
+
+U1E07	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [TRANSMISSION (DIAGNOSTICS)]
+LOST COMMUNICATION OF AUTHENTICATION DATA WITH ECM/PCM PU-BUS
+
+U1E08	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+LOST COMMUNICATION OF AUTHENTICATION DATA WITH VDC PU-BUS
+
+U1E10	
+Diagnostic Procedure with Diagnostic Trouble Code (DTC) [LAN SYSTEM (DIAGNOSTICS)]
+LOST COMMUNICATION OF AUTHENTICATION DATA WITH TCM PU-BUS
+
