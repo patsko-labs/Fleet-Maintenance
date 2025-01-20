@@ -1,0 +1,15 @@
+Lug torque: 89 ft-lbs
+Front top hat to chassis: 17 ft-lbs
+Front top hat nut: 41 ft-lbs
+Front Strut to knuckle: 114 ft-lbs upper 97 ft-lbs lower
+Front Caliper to bracket: 20 ft-lbs
+Front Brake Bracket to Knuckle: 100 ft-lbs
+Rear Caliper to bracket: 20 ft-lbs
+Rear Brake Bracket to Knuckle: 81 ft-lbs
+Rear Strut to LCA: 59 ft/lbs
+Rear Strut to Chassis: 22 ft/lbs
+LCA to Chassis: 59 ft/lbs
+Rear Endlink to LCA: 28 ft/lbs
+Front Sway Bar to end link/strut: 34 ft-lbs
+Axle nut: 143 ft-lbs
+Hub to knuckle: 70 ft-lbs
