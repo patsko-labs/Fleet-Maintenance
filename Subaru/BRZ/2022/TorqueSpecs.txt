@@ -13,3 +13,9 @@ Rear Endlink to LCA: 28 ft/lbs
 Front Sway Bar to end link/strut: 34 ft-lbs
 Axle nut: 143 ft-lbs
 Hub to knuckle: 70 ft-lbs
+
+Transmission Fill Bolt: 27 ft-lbs
+Transmission Drain Bolt: 27 ft-lbs
+
+Diff Fill Bolt: 36 ft-lbs
+Diff Drain Bolt: 36 ft-lbs
